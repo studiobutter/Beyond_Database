@@ -1,0 +1,1886 @@
+{
+  "271640": {
+    "name": "Danh Mục Thành Phần: Giày Vải Cao Cổ - Nâu Sẫm",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0265",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271639": {
+    "name": "Danh Mục Thành Phần: Giày Vải Cao Cổ - Đen Xám",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0264",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271638": {
+    "name": "Danh Mục Thành Phần: Giày Vải Cao Cổ - Xanh Lơ",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0263",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271637": {
+    "name": "Danh Mục Thành Phần: Giày Nam Ghép Màu - Nâu",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0245",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271636": {
+    "name": "Danh Mục Thành Phần: Giày Nữ Ghép Màu - Xanh Mầm",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0245",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271635": {
+    "name": "Danh Mục Thành Phần: Giày Nam Ghép Màu - Xám Nhạt",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0244",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271634": {
+    "name": "Danh Mục Thành Phần: Giày Nữ Ghép Màu - Hồng Đào",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0244",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271633": {
+    "name": "Danh Mục Thành Phần: Giày Nam Ghép Màu - Xanh Biển",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0243",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271632": {
+    "name": "Danh Mục Thành Phần: Giày Nữ Ghép Màu - Trắng Xám",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0243",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271631": {
+    "name": "Danh Mục Thành Phần: Giày Da Đế Thô - Trắng Ngà",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0203",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271630": {
+    "name": "Danh Mục Thành Phần: Giày Da Đế Thô - Tím Nhạt",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0202",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271629": {
+    "name": "Danh Mục Thành Phần: Giày Da Đế Thô - Đỏ Rực",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0201",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271628": {
+    "name": "Danh Mục Thành Phần: Giày Da Đế Thô - Đen Mực",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0200",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271627": {
+    "name": "Danh Mục Thành Phần: Bốt Ngắn Buộc Dây - Xám Chì",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0199",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271626": {
+    "name": "Danh Mục Thành Phần: Bốt Ngắn Buộc Dây - Nâu Đậm",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0198",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271625": {
+    "name": "Danh Mục Thành Phần: Bốt Ngắn Da Thuộc - Nâu Nhạt",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0198",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271623": {
+    "name": "Danh Mục Thành Phần: Bốt Ngắn Da Thuộc - Đen Mực",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0197",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271622": {
+    "name": "Danh Mục Thành Phần: Bốt Ngắn Da Thuộc - Đen Xám",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0196",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271621": {
+    "name": "Danh Mục Thành Phần: Bốt Ngắn Da Thuộc - Nâu Đậm",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0196",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271620": {
+    "name": "Danh Mục Thành Phần: Dép Lê Thoải Mái - Xanh Biển",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0173",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271619": {
+    "name": "Danh Mục Thành Phần: Dép Lê Thoải Mái - Xanh Rừng",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0172",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271618": {
+    "name": "Danh Mục Thành Phần: Dép Lê Thoải Mái - Trắng Xám",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0171",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271617": {
+    "name": "Danh Mục Thành Phần: Dép Lê Mát Mẻ - Xanh Biển",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0119",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271616": {
+    "name": "Danh Mục Thành Phần: Dép Lê Mát Mẻ - Xanh Mực",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0118",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271615": {
+    "name": "Danh Mục Thành Phần: Dép Lê Mát Mẻ - Nâu Đậm",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0117",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271614": {
+    "name": "Danh Mục Thành Phần: Giày Nam Học Đường - Xanh Lá",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0098",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271613": {
+    "name": "Danh Mục Thành Phần: Giày Nam Học Đường - Đen Xám",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0097",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271612": {
+    "name": "Danh Mục Thành Phần: Giày Nữ Học Đường - Nâu Trà",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0097",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271611": {
+    "name": "Danh Mục Thành Phần: Giày Nam Học Đường - Đỏ Nâu",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0096",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271610": {
+    "name": "Danh Mục Thành Phần: Giày Nữ Học Đường - Đen Mực",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0096",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271609": {
+    "name": "Danh Mục Thành Phần: Giày Nam Học Đường - Nâu Đậm",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0095",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271608": {
+    "name": "Danh Mục Thành Phần: Giày Nữ Học Đường - Trắng Bạc",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0095",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271607": {
+    "name": "Danh Mục Thành Phần: Bốt Lửng Buộc Dây - Trắng Ngà",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0082",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271606": {
+    "name": "Danh Mục Thành Phần: Bốt Lửng Buộc Dây - Nâu",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0081",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271605": {
+    "name": "Danh Mục Thành Phần: Bốt Lửng Gọn Gàng - Nâu Xám",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0080",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271604": {
+    "name": "Danh Mục Thành Phần: Bốt Lửng Gọn Gàng - Đen Mực",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0079",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271603": {
+    "name": "Danh Mục Thành Phần: Bốt Lửng Nhanh Nhẹn - Nâu Nhạt",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0081",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271602": {
+    "name": "Danh Mục Thành Phần: Bốt Lửng Nhanh Nhẹn - Nâu Đậm",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0080",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271601": {
+    "name": "Danh Mục Thành Phần: Bốt Lửng Nhanh Nhẹn - Đen Mực",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0079",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270860": {
+    "name": "Danh Mục Thành Phần: Chân Váy Thuần Khiết - Nâu Đậm",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0242",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270859": {
+    "name": "Danh Mục Thành Phần: Chân Váy Thuần Khiết - Hồng Phấn",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0241",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270858": {
+    "name": "Danh Mục Thành Phần: Chân Váy Thuần Khiết - Xanh Biển",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0240",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270857": {
+    "name": "Danh Mục Thành Phần: Chân Váy Trang Nhã - Xanh Lá",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0239",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270856": {
+    "name": "Danh Mục Thành Phần: Chân Váy Trang Nhã - Lam Mực",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0238",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270855": {
+    "name": "Danh Mục Thành Phần: Chân Váy Trang Nhã - Nâu Nhạt",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0237",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270854": {
+    "name": "Danh Mục Thành Phần: Quần Gập Gấu Tiện Dụng - Xanh Cổ Vịt",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0236",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270853": {
+    "name": "Danh Mục Thành Phần: Quần Gập Gấu Tiện Dụng - Xanh Lá Đậm",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0236",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270852": {
+    "name": "Danh Mục Thành Phần: Quần Gập Gấu Tiện Dụng - Đỏ Rực",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0235",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270851": {
+    "name": "Danh Mục Thành Phần: Quần Gập Gấu Tiện Dụng - Lam Nhạt",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0235",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270850": {
+    "name": "Danh Mục Thành Phần: Quần Gập Gấu Mát Mẻ - Lam Đậm",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0234",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270849": {
+    "name": "Danh Mục Thành Phần: Quần Gập Gấu Mát Mẻ - Xanh Biển",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0234",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270848": {
+    "name": "Danh Mục Thành Phần: Quần Gập Gấu Mát Mẻ - Trắng",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0233",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270846": {
+    "name": "Danh Mục Thành Phần: Quần Ôm Dài Nhanh Nhẹn - Xám Nhạt",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0232",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270845": {
+    "name": "Danh Mục Thành Phần: Quần Ôm Dài Nhanh Nhẹn - Đỏ Rực",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0231",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270844": {
+    "name": "Danh Mục Thành Phần: Quần Ôm Dài Gọn Gàng - Xám Đậm",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0230",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270843": {
+    "name": "Danh Mục Thành Phần: Quần Ôm Dài Gọn Gàng - Xanh Lá",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0230",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270842": {
+    "name": "Danh Mục Thành Phần: Quần Ôm Dài Gọn Gàng - Nâu Đậm",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0229",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270841": {
+    "name": "Danh Mục Thành Phần: Quần Ôm Dài Gọn Gàng - Lam Đậm",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0229",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270840": {
+    "name": "Danh Mục Thành Phần: Quần Ôm Dài Gọn Gàng - Đen Mực",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0228",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270839": {
+    "name": "Danh Mục Thành Phần: Quần Ôm Dài Gọn Gàng - Lam Nhạt",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0228",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270836": {
+    "name": "Danh Mục Thành Phần: Quần Ống Đứng Hiệu Năng - Xanh Tím",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0218",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270835": {
+    "name": "Danh Mục Thành Phần: Quần Ống Đứng Hiệu Năng - Nâu Đậm",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0217",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270834": {
+    "name": "Danh Mục Thành Phần: Quần Ống Đứng Hiệu Năng - Trắng",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0216",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270833": {
+    "name": "Danh Mục Thành Phần: Quần Ống Đứng Đơn Giản - Nâu Vàng",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0215",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270832": {
+    "name": "Danh Mục Thành Phần: Quần Ống Đứng Đơn Giản - Đen Mực",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0214",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270831": {
+    "name": "Danh Mục Thành Phần: Quần Ống Đứng Đơn Giản - Xám Nhạt",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0213",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270830": {
+    "name": "Danh Mục Thành Phần: Quần Dài Ống Bó Hiệu Năng - Xanh Lá",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0212",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270829": {
+    "name": "Danh Mục Thành Phần: Quần Dài Ống Bó Hiệu Năng - Nâu Đậm",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0211",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270828": {
+    "name": "Danh Mục Thành Phần: Quần Dài Ống Bó Hiệu Năng - Đen Mực",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0210",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270827": {
+    "name": "Danh Mục Thành Phần: Váy Xếp Ly Hiên Ngang - Xanh Cổ Vịt",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0209",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270826": {
+    "name": "Danh Mục Thành Phần: Váy Xếp Ly Hiên Ngang - Xanh Tím",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0208",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270825": {
+    "name": "Danh Mục Thành Phần: Váy Xếp Ly Hiên Ngang - Trắng",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0207",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270824": {
+    "name": "Danh Mục Thành Phần: Váy Xếp Ly Kinh Điển - Đỏ Rực",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0206",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270823": {
+    "name": "Danh Mục Thành Phần: Váy Xếp Ly Kinh Điển - Xanh Nhạt",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0205",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270822": {
+    "name": "Danh Mục Thành Phần: Váy Xếp Ly Kinh Điển - Xanh Đen",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0204",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270821": {
+    "name": "Danh Mục Thành Phần: Quần Bí Ngô Dài Hiệu Năng - Xanh Lá",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0195",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270820": {
+    "name": "Danh Mục Thành Phần: Quần Bí Ngô Dài Hiệu Năng - Đen Tuyền",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0194",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270819": {
+    "name": "Danh Mục Thành Phần: Quần Bí Ngô Dài Đơn Giản - Trắng",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0193",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270818": {
+    "name": "Danh Mục Thành Phần: Quần Bí Ngô Dài Đơn Giản - Xanh Đậm",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0192",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270817": {
+    "name": "Danh Mục Thành Phần: Quần Bí Ngô Dài Đơn Giản - Xanh Tím",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0191",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270816": {
+    "name": "Danh Mục Thành Phần: Quần Bí Ngô Hiệu Năng - Xanh Mòng Két",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0190",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270815": {
+    "name": "Danh Mục Thành Phần: Quần Bí Ngô Hiệu Năng - Nâu Vàng",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0189",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270814": {
+    "name": "Danh Mục Thành Phần: Quần Bí Ngô Hiệu Năng - Đen Mực",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0188",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270813": {
+    "name": "Danh Mục Thành Phần: Quần Bí Ngô Đơn Giản - Xanh Non",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0187",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270812": {
+    "name": "Danh Mục Thành Phần: Quần Bí Ngô Đơn Giản - Xám Đậm",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0186",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270811": {
+    "name": "Danh Mục Thành Phần: Quần Bí Ngô Đơn Giản - Xanh Biển",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0185",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270810": {
+    "name": "Danh Mục Thành Phần: Quần Ống Loe Trào Lưu - Xám Nhạt",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0170",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270809": {
+    "name": "Danh Mục Thành Phần: Quần Ống Loe Trào Lưu - Xanh Tím",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0169",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270808": {
+    "name": "Danh Mục Thành Phần: Quần Ống Loe Đơn Giản - Đen Mực",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0168",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270807": {
+    "name": "Danh Mục Thành Phần: Quần Ống Loe Đơn Giản - Xanh Biển",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0167",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270806": {
+    "name": "Danh Mục Thành Phần: Quần Thể Thao Linh Hoạt - Đen Mực",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0111",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270805": {
+    "name": "Danh Mục Thành Phần: Quần Thể Thao Linh Hoạt - Xám Nhạt",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0110",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270804": {
+    "name": "Danh Mục Thành Phần: Quần Thể Thao Linh Hoạt - Lam Đậm",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0109",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270803": {
+    "name": "Danh Mục Thành Phần: Quần Thể Thao Đơn Giản - Nâu Vàng",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0108",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270802": {
+    "name": "Danh Mục Thành Phần: Quần Thể Thao Đơn Giản - Cỏ Xanh",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0107",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270801": {
+    "name": "Danh Mục Thành Phần: Quần Thể Thao Đơn Giản - Nâu Đậm",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0106",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270080": {
+    "name": "Danh Mục Thành Phần: Áo Sơ Mi Đơn Giản - Trắng",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0262",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270079": {
+    "name": "Danh Mục Thành Phần: Áo Sơ Mi Đơn Giản - Xanh Biển",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0261",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270078": {
+    "name": "Danh Mục Thành Phần: Áo Sơ Mi Nghiêm Túc - Xám Đậm",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0260",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270077": {
+    "name": "Danh Mục Thành Phần: Áo Sơ Mi Nghiêm Túc - Trắng Xám",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0259",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270076": {
+    "name": "Danh Mục Thành Phần: Áo Sơ Mi Trang Trọng - Xám Nhạt",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0258",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270075": {
+    "name": "Danh Mục Thành Phần: Áo Sơ Mi Trang Trọng - Trắng Xám",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0257",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270074": {
+    "name": "Danh Mục Thành Phần: Hoodie Dài Tay Tiện Lợi - Xanh Lá Đậm",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0256",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270073": {
+    "name": "Danh Mục Thành Phần: Hoodie Dài Tay Tiện Dụng - Xanh Biển",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0256",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270072": {
+    "name": "Danh Mục Thành Phần: Hoodie Dài Tay Tiện Lợi - Xám Đậm",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0255",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270071": {
+    "name": "Danh Mục Thành Phần: Hoodie Dài Tay Tiện Dụng - Xanh Mòng Két",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0255",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270070": {
+    "name": "Danh Mục Thành Phần: Hoodie Dài Tay Tiện Dụng - Trắng",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0254",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270069": {
+    "name": "Danh Mục Thành Phần: Hoodie Dài Tay Tiện Dụng - Hồng Tươi",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0254",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270068": {
+    "name": "Danh Mục Thành Phần: Hoodie Dài Tay Tiện Dụng - Nâu Đậm",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0253",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270067": {
+    "name": "Danh Mục Thành Phần: Hoodie Dài Tay Tiện Dụng - Tím Đậm",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0253",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270066": {
+    "name": "Danh Mục Thành Phần: Áo Thể Thao Dài Tay Gọn Gàng - Nâu Vàng",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0252",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270065": {
+    "name": "Danh Mục Thành Phần: Hoodie Dài Tay Tiện Dụng - Hồng Phấn",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0252",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270064": {
+    "name": "Danh Mục Thành Phần: Áo Thể Thao Dài Tay Gọn Gàng - Đỏ Rực",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0251",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270063": {
+    "name": "Danh Mục Thành Phần: Hoodie Dài Tay Tiện Dụng - Xanh Lục",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0251",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270062": {
+    "name": "Danh Mục Thành Phần: Áo Sơ Mi Trang Nghiêm - Tím Đậm",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0250",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270061": {
+    "name": "Danh Mục Thành Phần: Áo Sơ Mi Trang Nghiêm - Đen Mực",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0249",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270060": {
+    "name": "Danh Mục Thành Phần: Áo Sơ Mi Trang Nghiêm - Lam Đậm",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0248",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270059": {
+    "name": "Danh Mục Thành Phần: Áo Sơ Mi Thanh Lịch - Đen Mực",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0247",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270058": {
+    "name": "Danh Mục Thành Phần: Áo Sơ Mi Thanh Lịch - Trắng",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0246",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270057": {
+    "name": "Danh Mục Thành Phần: Áo Sơ Mi Tiểu Quỷ - Đỏ Rực",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0226",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270056": {
+    "name": "Danh Mục Thành Phần: Áo Sơ Mi Tiểu Quỷ - Đen Mực",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0225",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270055": {
+    "name": "Danh Mục Thành Phần: Áo Sơ Mi Cây Cọ - Xanh Biển",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0224",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270054": {
+    "name": "Danh Mục Thành Phần: Áo Sơ Mi Cây Cọ - Xanh Mực",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0223",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270053": {
+    "name": "Danh Mục Thành Phần: Áo Thun Trùm Đầu Graffiti - Lam Xám",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0222",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270052": {
+    "name": "Danh Mục Thành Phần: Áo Thun Trùm Đầu Graffiti - Đen Mực",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0221",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270051": {
+    "name": "Danh Mục Thành Phần: Áo Thun Trùm Đầu Phong Cách - Xanh Tím",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0220",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270050": {
+    "name": "Danh Mục Thành Phần: Áo Thun Trùm Đầu Phong Cách - Cam Sáng",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0219",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270049": {
+    "name": "Danh Mục Thành Phần: Sơ Mi Tay Bồng - Xanh Mực",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0184",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270048": {
+    "name": "Danh Mục Thành Phần: Sơ Mi Tay Bồng - Xanh Cổ Vịt",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0183",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270047": {
+    "name": "Danh Mục Thành Phần: Sơ Mi Tay Bồng - Nâu Nhạt",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0182",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270046": {
+    "name": "Danh Mục Thành Phần: Sơ Mi Tay Bồng - Đỏ Thẫm",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0181",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270045": {
+    "name": "Danh Mục Thành Phần: Áo Thủy Thủ Hoạt Bát - Xanh Trắng",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0179",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270044": {
+    "name": "Danh Mục Thành Phần: Áo Thủy Thủ Hoạt Bát - Xanh Biển",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0178",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270043": {
+    "name": "Danh Mục Thành Phần: Áo Thủy Thủ Hoạt Bát - Xanh Mực",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0177",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270042": {
+    "name": "Danh Mục Thành Phần: Áo Thủy Thủ Thanh Lịch - Tím Trắng",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0180",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270041": {
+    "name": "Danh Mục Thành Phần: Áo Thủy Thủ Thanh Lịch - Đen Mực",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0179",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270040": {
+    "name": "Danh Mục Thành Phần: Áo Thủy Thủ Thanh Lịch - Xanh Trắng",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0178",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270039": {
+    "name": "Danh Mục Thành Phần: Áo Thủy Thủ Thanh Lịch - Xanh Đen",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0177",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270038": {
+    "name": "Danh Mục Thành Phần: Áo Len Cổ Cao Không Tay - Xanh Biển",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0176",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270037": {
+    "name": "Danh Mục Thành Phần: Áo Len Cổ Cao Không Tay - Đen Mực",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0175",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270036": {
+    "name": "Danh Mục Thành Phần: Áo Len Cổ Cao Không Tay - Trắng Sữa",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0174",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270035": {
+    "name": "Danh Mục Thành Phần: Áo Dây Đơn Giản - Trắng",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0166",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270034": {
+    "name": "Danh Mục Thành Phần: Áo Dây Đơn Giản - Hồng Phấn",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0165",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270033": {
+    "name": "Danh Mục Thành Phần: Áo Dây Đơn Giản - Xanh Biển",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0164",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270032": {
+    "name": "Danh Mục Thành Phần: Áo Dây Đơn Giản - Đen Mực",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0163",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270031": {
+    "name": "Danh Mục Thành Phần: Áo Blouse Tay Bồng - Xanh Lục",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0105",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270030": {
+    "name": "Danh Mục Thành Phần: Áo Blouse Tay Bồng - Đen Mực",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0104",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270029": {
+    "name": "Danh Mục Thành Phần: Áo Blouse Tay Bồng - Vàng Chanh",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0103",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270028": {
+    "name": "Danh Mục Thành Phần: Áo Blouse Tay Bồng - Trắng",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0102",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270027": {
+    "name": "Danh Mục Thành Phần: Áo Blouse Tay Bồng Ngắn - Xám Nhạt",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0101",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270026": {
+    "name": "Danh Mục Thành Phần: Áo Blouse Tay Bồng Ngắn - Hồng Phấn",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0100",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270025": {
+    "name": "Danh Mục Thành Phần: Áo Blouse Tay Bồng Ngắn - Màu Be",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0099",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270024": {
+    "name": "Danh Mục Thành Phần: Sơ Mi Tay Lửng Kinh Điển - Xám Nhạt",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0094",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270023": {
+    "name": "Danh Mục Thành Phần: Sơ Mi Tay Lửng Kinh Điển - Xanh Biển",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0093",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270022": {
+    "name": "Danh Mục Thành Phần: Sơ Mi Tay Lửng Kinh Điển - Trắng",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0092",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270021": {
+    "name": "Danh Mục Thành Phần: Sơ Mi Tay Lửng Kinh Điển - Xanh Non",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0091",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270020": {
+    "name": "Danh Mục Thành Phần: Sơ Mi Tay Lửng Hiệu Năng - Nâu Đậm",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0090",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270019": {
+    "name": "Danh Mục Thành Phần: Sơ Mi Tay Lửng Hiệu Năng - Đen Mực",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0089",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270018": {
+    "name": "Danh Mục Thành Phần: Áo Blouse Ngọt Ngào - Đỏ Rượu",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0088",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270017": {
+    "name": "Danh Mục Thành Phần: Áo Blouse Ngọt Ngào - Nâu Đậm",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0087",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270016": {
+    "name": "Danh Mục Thành Phần: Áo Blouse Ngọt Ngào - Xám Nhạt",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0086",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270015": {
+    "name": "Danh Mục Thành Phần: Áo Blouse Đơn Giản - Nâu Đậm",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0085",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270014": {
+    "name": "Danh Mục Thành Phần: Áo Blouse Đơn Giản - Xám Nhạt",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0084",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270013": {
+    "name": "Danh Mục Thành Phần: Áo Blouse Đơn Giản - Đen Mực",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0083",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270012": {
+    "name": "Danh Mục Thành Phần: Áo Hải Thú Bồng Bềnh - Xanh Biển",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0012",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270011": {
+    "name": "Danh Mục Thành Phần: Áo Fatui - Đen Mực",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0011",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270010": {
+    "name": "Danh Mục Thành Phần: Áo Guoba - Màu Gốc",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0010",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270009": {
+    "name": "Danh Mục Thành Phần: Áo Slime - Xanh Trời",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0009",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270008": {
+    "name": "Danh Mục Thành Phần: Áo Phong Tinh Điệp - Đen Mực",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0008",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270007": {
+    "name": "Danh Mục Thành Phần: Áo Thi Nhảy - Đỏ Rực",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0007",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270006": {
+    "name": "Danh Mục Thành Phần: Áo Aranara - Xanh Lục",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0006",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270005": {
+    "name": "Danh Mục Thành Phần: Áo Hải Thú Bồng Bềnh - Xám Đậm",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0005",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270004": {
+    "name": "Danh Mục Thành Phần: Áo Vuốt Sắc - Đen Mực",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0004",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270003": {
+    "name": "Danh Mục Thành Phần: Áo Aranara - Trắng",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0003",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270002": {
+    "name": "Danh Mục Thành Phần: Áo Ánh Sao - Xám Nhạt",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0002",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270001": {
+    "name": "Danh Mục Thành Phần: Áo Lởm Chởm - Xanh Biển",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0001",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274200": {
+    "name": "Danh Mục Thành Phần - Găng Tay Hương Lễ Hội",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_ArmAcc_S0053",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274199": {
+    "name": "Danh Mục Thành Phần - Bông Tai Hương Lễ Hội",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Earwear_S0053",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274196": {
+    "name": "Danh Mục Thành Phần - Tất Ngắn Thanh Quỳ",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_LegAcc_S0040",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274195": {
+    "name": "Danh Mục Thành Phần - Băng Đô Thanh Quỳ",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Headwear_S0040",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274193": {
+    "name": "Danh Mục Thành Phần - Phụ Kiện Tóc Thanh Quỳ",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Headwear_S0040",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274192": {
+    "name": "Danh Mục Thành Phần - Găng Tay Nhà Nghiên Cứu Nấm",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_ArmAcc_S0052",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274191": {
+    "name": "Danh Mục Thành Phần - Bông Tai Nhà Nghiên Cứu Nấm",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Earwear_S0052",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274189": {
+    "name": "Danh Mục Thành Phần - Tất Ngắn Quýt Mật",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_LegAcc_S0039",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274188": {
+    "name": "Danh Mục Thành Phần - Băng Đô Quýt Mật",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Headwear_S0039",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274186": {
+    "name": "Danh Mục Thành Phần - Phụ Kiện Tóc Quýt Mật",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Headwear_S0039",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274173": {
+    "name": "Danh Mục Thành Phần - Găng Tay Sải Cánh Tự Do",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_ArmAcc_S0045",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274172": {
+    "name": "Danh Mục Thành Phần - Kính Sải Cánh Tự Do",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Headwear_S0045",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274175": {
+    "name": "Danh Mục Thành Phần - Găng Tay Vững Tin Bay Lượn",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_ArmAcc_S0044",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274174": {
+    "name": "Danh Mục Thành Phần - Kính Vững Tin Bay Lượn",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Headwear_S0044",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274166": {
+    "name": "Danh Mục Thành Phần: Mũ Rộng Vành Nhàn Nhã",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Headwear_S0043",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274164": {
+    "name": "Danh Mục Thành Phần: Mũ Rộng Vành Rực Lửa",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Headwear_S0042",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274162": {
+    "name": "Danh Mục Thành Phần: Tất Lửng Đỏ Tươi",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_LegAcc_S0037",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274161": {
+    "name": "Danh Mục Thành Phần: Tất Lửng Trong Veo",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_LegAcc_S0036",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274160": {
+    "name": "Danh Mục Thành Phần: Mũ Thủy Thủ Sóng Dữ",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Headwear_S0032",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274159": {
+    "name": "Danh Mục Thành Phần: Tất Thủy Thủ Sóng Dữ",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_LegAcc_S0032",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274154": {
+    "name": "Danh Mục Thành Phần: Vòng Tay Bản Nhạc",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_ArmAcc_S0026",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274153": {
+    "name": "Danh Mục Thành Phần: Nguyệt Quế Bản Nhạc",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Headwear_S0026",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274152": {
+    "name": "Danh Mục Thành Phần: Vòng Cổ Bản Nhạc",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Neckwear_S0026",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273905": {
+    "name": "Danh Mục Thành Phần: Nốt Ruồi Dưới Môi",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_FacialMakeup_P0072",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273903": {
+    "name": "Danh Mục Thành Phần: Nốt Ruồi Dưới Mắt",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_FacialMakeup_P0026",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273901": {
+    "name": "Danh Mục Thành Phần: Lấm Tấm Tàn Nhang",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_FacialMakeup_P0025",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273704": {
+    "name": "Danh Mục Thành Phần: Cuộn Da - Lan Tỏa",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_EyeShadow_P0026",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273702": {
+    "name": "Danh Mục Thành Phần: Cuộn Da - Tán Đều",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_EyeShadow_P0025",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273603": {
+    "name": "Danh Mục Thành Phần: Pudding Đào Ngọt",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Lipstick_P0026",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273601": {
+    "name": "Danh Mục Thành Phần: Lời Nhắn Trên Thư",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Lipstick_P0025",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273211": {
+    "name": "Danh Mục Thành Phần: Mứt Quả Mọng",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Pupil_P0062",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273209": {
+    "name": "Danh Mục Thành Phần: Mưa Sương Xanh Biếc",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Pupil_P0061",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273207": {
+    "name": "Danh Mục Thành Phần: Cỏ Thơm Bạc Hà",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Pupil_P0060",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273205": {
+    "name": "Danh Mục Thành Phần: Hẹn Ước Chanh Vàng",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Pupil_P0059",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273203": {
+    "name": "Danh Mục Thành Phần: Giấc Mộng Cam Tươi",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Pupil_P0058",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273201": {
+    "name": "Danh Mục Thành Phần: Quả Mâm Xôi",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Pupil_P0057",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272918": {
+    "name": "Danh Mục Thành Phần: Thư Từ Hoa Sớm",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Face_P0071",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272916": {
+    "name": "Danh Mục Thành Phần: Bươm Bướm Chạng Vạng",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Face_P0070",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272914": {
+    "name": "Danh Mục Thành Phần: Ánh Nắng Ấm Áp",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Face_P0069",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272511": {
+    "name": "Danh Mục Thành Phần: Lá Cờ - Vàng",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0038",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272509": {
+    "name": "Danh Mục Thành Phần: Lá Cờ - Nâu",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0037",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272507": {
+    "name": "Danh Mục Thành Phần: Lá Cờ - Đen",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0036",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272505": {
+    "name": "Danh Mục Thành Phần: Tân Nguyệt - Vàng",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0035",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272503": {
+    "name": "Danh Mục Thành Phần: Tân Nguyệt - Nâu",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0034",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272501": {
+    "name": "Danh Mục Thành Phần: Tân Nguyệt - Đen",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0033",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272410": {
+    "name": "Danh Mục Thành Phần: Tóc Nấm",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Hair_P0116",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272409": {
+    "name": "Danh Mục Thành Phần: Mái Bằng Dài",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Hair_P0116",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272408": {
+    "name": "Danh Mục Thành Phần: Tóc Xù Tung Bay",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Hair_P0115",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272407": {
+    "name": "Danh Mục Thành Phần: Tóc Đuôi Ngựa Ngắn",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Hair_P0115",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272406": {
+    "name": "Danh Mục Thành Phần: Tóc Ngắn Chẻ Ngôi",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Hair_P0114",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272405": {
+    "name": "Danh Mục Thành Phần: Tóc Đuôi Ngựa Đơn Giản",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Hair_P0114",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272404": {
+    "name": "Danh Mục Thành Phần: Tóc Ngắn Nhím Gai",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Hair_P0113",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272403": {
+    "name": "Danh Mục Thành Phần: Tóc Đuôi Ngựa Caramel",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Hair_P0113",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272402": {
+    "name": "Danh Mục Thành Phần: Tóc Ngắn Trầm Ổn",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Hair_P0112",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272401": {
+    "name": "Danh Mục Thành Phần: Tóc Ngắn Ung Dung",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Hair_P0112",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271756": {
+    "name": "Danh Mục Thành Phần - Giày Da Hương Lễ Hội",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0053",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271754": {
+    "name": "Danh Mục Thành Phần - Guốc Gỗ Thanh Quỳ",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0040",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271752": {
+    "name": "Danh Mục Thành Phần - Giày Da Nhà Nghiên Cứu Nấm",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0052",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271750": {
+    "name": "Danh Mục Thành Phần - Guốc Gỗ Quýt Mật",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0039",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271747": {
+    "name": "Danh Mục Thành Phần - Giày Vải Huệ Lan",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0078",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271745": {
+    "name": "Danh Mục Thành Phần - Giày Vải Tố Tâm Lan",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0079",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271676": {
+    "name": "Danh Mục Thành Phần - Bốt Dài Vững Tin Bay Lượn",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0044",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271674": {
+    "name": "Danh Mục Thành Phần - Bốt Dài Sải Cánh Tự Do",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0045",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271668": {
+    "name": "Danh Mục Thành Phần: Bốt Gấm Đỏ Tươi",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0037",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271666": {
+    "name": "Danh Mục Thành Phần: Bốt Gấm Trong Veo",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0036",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271664": {
+    "name": "Danh Mục Thành Phần: Giày Da Sóng Dữ",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0032",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271660": {
+    "name": "Danh Mục Thành Phần: Dép Lê Bản Nhạc",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0026",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271658": {
+    "name": "Danh Mục Thành Phần: Giày Nhảy Múa",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0065",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271652": {
+    "name": "Danh Mục Thành Phần: Bốt Lửng Lá Mới",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0064",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271646": {
+    "name": "Danh Mục Thành Phần: Bốt Ngắn Sâu Thẳm",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0063",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271645": {
+    "name": "Danh Mục Thành Phần: Bốt Dài Sâu Thẳm",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0063",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270982": {
+    "name": "Danh Mục Thành Phần - Quần Dài Hương Lễ Hội",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0053",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270981": {
+    "name": "Danh Mục Thành Phần - Váy Ngắn Hương Lễ Hội",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0053",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270980": {
+    "name": "Danh Mục Thành Phần - Quần Ngắn Thanh Quỳ",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0040",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270979": {
+    "name": "Danh Mục Thành Phần - Quần Dài Nhà Nghiên Cứu Nấm",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0052",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270978": {
+    "name": "Danh Mục Thành Phần - Váy Dài Huệ Lan",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0078",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270977": {
+    "name": "Danh Mục Thành Phần - Váy Ngắn Nhà Nghiên Cứu Nấm",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0052",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270976": {
+    "name": "Danh Mục Thành Phần - Quần Dài Huệ Lan",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0078",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270975": {
+    "name": "Danh Mục Thành Phần - Quần Ngắn Quýt Mật",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0039",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270974": {
+    "name": "Danh Mục Thành Phần - Quần Dài Tố Tâm Lan",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0079",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270973": {
+    "name": "Danh Mục Thành Phần - Váy Dài Tố Tâm Lan",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0079",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270890": {
+    "name": "Danh Mục Thành Phần - Quần Ngắn Vững Tin Bay Lượn",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0044",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270889": {
+    "name": "Danh Mục Thành Phần - Váy Ngắn Vững Tin Bay Lượn",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0044",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270888": {
+    "name": "Danh Mục Thành Phần - Quần Ngắn Sải Cánh Tự Do",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0045",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270887": {
+    "name": "Danh Mục Thành Phần - Váy Ngắn Sải Cánh Tự Do",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0045",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270882": {
+    "name": "Danh Mục Thành Phần: Quần Ống Côn Màu Mực",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0037",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270880": {
+    "name": "Danh Mục Thành Phần: Quần Ống Côn Nham Thạch",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0036",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270878": {
+    "name": "Danh Mục Thành Phần: Quần Ống Côn Nhảy Múa",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0065",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270877": {
+    "name": "Danh Mục Thành Phần: Quần Thể Thao Năng Động",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0065",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270872": {
+    "name": "Danh Mục Thành Phần: Quần Ống Côn Lá Mới",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0064",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270871": {
+    "name": "Danh Mục Thành Phần: Chân Váy Lá Mới",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0064",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270866": {
+    "name": "Danh Mục Thành Phần: Quần Dài Sâu Thẳm",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0063",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270865": {
+    "name": "Danh Mục Thành Phần: Legging Sâu Thẳm",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0063",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270236": {
+    "name": "Danh Mục Thành Phần - Áo Ngắn Hương Lễ Hội",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0053",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270233": {
+    "name": "Danh Mục Thành Phần - Áo Thanh Quỳ",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0040",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270232": {
+    "name": "Danh Mục Thành Phần - Áo Ngắn Nhà Nghiên Cứu Nấm",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0052",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270230": {
+    "name": "Danh Mục Thành Phần - Áo Vải Huệ Lan",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0078",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270229": {
+    "name": "Danh Mục Thành Phần - Áo Quýt Mật",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0039",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270225": {
+    "name": "Danh Mục Thành Phần - Áo Vải Tố Tâm Lan",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0079",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270115": {
+    "name": "Danh Mục Thành Phần - Đồng Phục Vững Tin Bay Lượn",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0044",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270114": {
+    "name": "Danh Mục Thành Phần - Đồng Phục Sải Cánh Tự Do",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0045",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270108": {
+    "name": "Danh Mục Thành Phần: Áo Dài Tay Đỏ Tươi",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0037",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270107": {
+    "name": "Danh Mục Thành Phần: Váy Liền Đỏ Tươi",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0037",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270106": {
+    "name": "Danh Mục Thành Phần: Áo Dài Tay Trong Veo",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0036",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270105": {
+    "name": "Danh Mục Thành Phần: Váy Liền Trong Veo",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0036",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270104": {
+    "name": "Danh Mục Thành Phần: Trang Phục Thủy Thủ Sóng Dữ",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0032",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270100": {
+    "name": "Danh Mục Thành Phần: Áo Choàng Bản Nhạc",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0026",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270098": {
+    "name": "Danh Mục Thành Phần: Hoodie Nhảy Múa",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0065",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270092": {
+    "name": "Danh Mục Thành Phần: Áo Sơ Mi Lá Mới",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0064",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270086": {
+    "name": "Danh Mục Thành Phần: Áo Khoác Sâu Thẳm",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0063",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270085": {
+    "name": "Danh Mục Thành Phần: Váy Liền Sâu Thẳm",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0063",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "250430": {
+    "name": "Cười Miễn Cưỡng",
+    "rank": 3,
+    "icon": "UI_UGC_Emoji_Rare_11",
+    "type": "BEYOND_MATERIAL_EMOJI"
+  },
+  "250429": {
+    "name": "Ngồi Xổm",
+    "rank": 3,
+    "icon": "UI_UGC_Emoji_Rare_10",
+    "type": "BEYOND_MATERIAL_EMOJI"
+  },
+  "250428": {
+    "name": "Bắt Tay",
+    "rank": 3,
+    "icon": "UI_UGC_Emoji_Rare_09",
+    "type": "BEYOND_MATERIAL_EMOJI"
+  },
+  "250427": {
+    "name": "Rót Trà",
+    "rank": 3,
+    "icon": "UI_UGC_Emoji_Rare_07",
+    "type": "BEYOND_MATERIAL_EMOJI"
+  },
+  "250426": {
+    "name": "Uống Trà",
+    "rank": 3,
+    "icon": "UI_UGC_Emoji_Rare_06",
+    "type": "BEYOND_MATERIAL_EMOJI"
+  },
+  "250425": {
+    "name": "Uất Ức",
+    "rank": 3,
+    "icon": "UI_UGC_Emoji_Rare_05",
+    "type": "BEYOND_MATERIAL_EMOJI"
+  },
+  "250424": {
+    "name": "Vẫy Tay",
+    "rank": 3,
+    "icon": "UI_UGC_Emoji_Rare_04",
+    "type": "BEYOND_MATERIAL_EMOJI"
+  },
+  "250423": {
+    "name": "Đổ Mồ Hôi",
+    "rank": 3,
+    "icon": "UI_UGC_Emoji_Rare_03",
+    "type": "BEYOND_MATERIAL_EMOJI"
+  },
+  "250440": {
+    "name": "Tức Giận",
+    "rank": 3,
+    "icon": "UI_UGC_Emoji_SuperRare_11",
+    "type": "BEYOND_MATERIAL_EMOJI"
+  },
+  "250421": {
+    "name": "Tán Dương",
+    "rank": 3,
+    "icon": "UI_UGC_Emoji_Rare_01",
+    "type": "BEYOND_MATERIAL_EMOJI"
+  },
+  "250137": {
+    "name": "Gật Đầu Mạnh",
+    "rank": 3,
+    "icon": "UI_UGC_ActionIcon_UNod02",
+    "type": "BEYOND_MATERIAL_POSE"
+  },
+  "250135": {
+    "name": "Lau Mồ Hôi",
+    "rank": 3,
+    "icon": "UI_UGC_ActionIcon_UNervous01",
+    "type": "BEYOND_MATERIAL_POSE"
+  },
+  "250133": {
+    "name": "Yêu Thích",
+    "rank": 3,
+    "icon": "UI_UGC_ActionIcon_ULike01",
+    "type": "BEYOND_MATERIAL_POSE"
+  },
+  "250129": {
+    "name": "Gõ Gõ",
+    "rank": 3,
+    "icon": "UI_UGC_ActionIcon_UKnock01",
+    "type": "BEYOND_MATERIAL_POSE"
+  },
+  "250121": {
+    "name": "Xua Tay",
+    "rank": 3,
+    "icon": "UI_UGC_ActionIcon_UHandWave01",
+    "type": "BEYOND_MATERIAL_POSE"
+  },
+  "250114": {
+    "name": "Cảm Thấy Lạnh Lẽo",
+    "rank": 3,
+    "icon": "UI_UGC_ActionIcon_UCold01",
+    "type": "BEYOND_MATERIAL_POSE"
+  },
+  "250110": {
+    "name": "Cổ Vũ Hai Tay",
+    "rank": 3,
+    "icon": "UI_UGC_ActionIcon_UCheer01",
+    "type": "BEYOND_MATERIAL_POSE"
+  },
+  "250108": {
+    "name": "Cúi Đầu",
+    "rank": 3,
+    "icon": "UI_UGC_ActionIcon_UBow01",
+    "type": "BEYOND_MATERIAL_POSE"
+  },
+  "250103": {
+    "name": "Chống Hai Tay",
+    "rank": 3,
+    "icon": "UI_UGC_ActionIcon_UAkimbo02",
+    "type": "BEYOND_MATERIAL_POSE"
+  },
+  "250101": {
+    "name": "Qua Đây Nào",
+    "rank": 3,
+    "icon": "UI_UGC_ActionIcon_UAggression01",
+    "type": "BEYOND_MATERIAL_POSE"
+  },
+  "275250": {
+    "name": "Danh Mục Bộ: Muôn Sắc Huyền Ảo",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Optional_Suit_S0112",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "275235": {
+    "name": "Danh Mục Bộ: Quả Mọng Chua Ngọt",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Optional_Suit_S0106",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "275143": {
+    "name": "Danh Mục Bộ: Thỏa Chí Phiêu Du",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Optional_Suit_S0073",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "275115": {
+    "name": "Danh Mục Bộ: Lá Phong Cam Thu",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Optional_Suit_S0038",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "275024": {
+    "name": "Danh Mục Bộ: Ánh Sao Khai Sáng",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Optional_Suit_S0025",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "275018": {
+    "name": "Danh Mục Bộ: Tín Hiệu Sao Trời",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Optional_Suit_S0007",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "275016": {
+    "name": "Danh Mục Bộ: Khu Phố Kỳ Ảo",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Optional_Suit_S0006",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  }
+}

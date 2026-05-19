@@ -1,0 +1,590 @@
+{
+  "261672": {
+    "name": "Ngoại Hình Nam - Bốt Cổ Gập Nhàn Nhã",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0043",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261671": {
+    "name": "Ngoại Hình Nữ - Bốt Cổ Gập Nhàn Nhã",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0043",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261670": {
+    "name": "Ngoại Hình Nam - Bốt Cổ Gập Rực Lửa",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0042",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261669": {
+    "name": "Ngoại Hình Nữ - Bốt Cổ Gập Rực Lửa",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0042",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261656": {
+    "name": "Ngoại Hình Nam - Giày Nhịp Điệu",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0013",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261655": {
+    "name": "Ngoại Hình Nữ - Giày Nhịp Điệu",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0013",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261654": {
+    "name": "Ngoại Hình Nam - Giày Nhịp Điệu Rock&Roll",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0012",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261653": {
+    "name": "Ngoại Hình Nữ - Giày Nhịp Điệu Rock&Roll",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0012",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261650": {
+    "name": "Ngoại Hình Nam - Bốt Lửng Sương Sớm",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0011",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261649": {
+    "name": "Ngoại Hình Nữ - Bốt Lửng Sương Sớm",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0011",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261648": {
+    "name": "Ngoại Hình Nam - Bốt Lửng Gió Thoảng",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0010",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261647": {
+    "name": "Ngoại Hình Nữ - Bốt Lửng Gió Thoảng",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0010",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261644": {
+    "name": "Ngoại Hình Nam - Bốt Ngắn Hoàn Vũ",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0009",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261643": {
+    "name": "Ngoại Hình Nữ - Bốt Dài Hoàn Vũ",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0009",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261642": {
+    "name": "Ngoại Hình Nam - Bốt Ngắn Sao Sáng",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0008",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261641": {
+    "name": "Ngoại Hình Nữ - Bốt Dài Sao Sáng",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0008",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260886": {
+    "name": "Ngoại Hình Nam - Quần Bó Nhàn Nhã",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0043",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260885": {
+    "name": "Ngoại Hình Nữ - Váy Ngắn Nhàn Nhã",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0043",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260884": {
+    "name": "Ngoại Hình Nam - Quần Bó Rực Lửa",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0042",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260883": {
+    "name": "Ngoại Hình Nữ - Váy Ngắn Rực Lửa",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0042",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260876": {
+    "name": "Ngoại Hình Nam - Quần Ống Côn Nhịp Điệu",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0013",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260875": {
+    "name": "Ngoại Hình Nữ - Quần Thể Thao Nhịp Điệu",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0013",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260874": {
+    "name": "Ngoại Hình Nam - Quần Ống Côn Rock&Roll",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0012",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260873": {
+    "name": "Ngoại Hình Nữ - Quần Thể Thao Rock&Roll",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0012",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260870": {
+    "name": "Ngoại Hình Nam - Quần Ống Côn Sương Sớm",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0011",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260869": {
+    "name": "Ngoại Hình Nữ - Chân Váy Sương Sớm",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0011",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260868": {
+    "name": "Ngoại Hình Nam - Quần Ống Côn Gió Thoảng",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0010",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260867": {
+    "name": "Ngoại Hình Nữ - Chân Váy Gió Thoảng",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0010",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260864": {
+    "name": "Ngoại Hình Nam - Quần Dài Hoàn Vũ",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0009",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260863": {
+    "name": "Ngoại Hình Nữ - Legging Hoàn Vũ",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0009",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260862": {
+    "name": "Ngoại Hình Nam - Quần Dài Sao Sáng",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0008",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260861": {
+    "name": "Ngoại Hình Nữ - Legging Sao Sáng",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0008",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260112": {
+    "name": "Ngoại Hình Nam - Áo Dài Tay Nhàn Nhã",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0043",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260111": {
+    "name": "Ngoại Hình Nữ - Áo Dài Tay Nhàn Nhã",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0043",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260110": {
+    "name": "Ngoại Hình Nam - Áo Dài Tay Rực Lửa",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0042",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260109": {
+    "name": "Ngoại Hình Nữ - Áo Dài Tay Rực Lửa",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0042",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260096": {
+    "name": "Ngoại Hình Nam - Hoodie Nhịp Điệu",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0013",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260095": {
+    "name": "Ngoại Hình Nữ - Hoodie Nhịp Điệu",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0013",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260094": {
+    "name": "Ngoại Hình Nam - Hoodie Rock&Roll",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0012",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260093": {
+    "name": "Ngoại Hình Nữ - Hoodie Rock&Roll",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0012",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260090": {
+    "name": "Ngoại Hình Nam - Áo Sơ Mi Sương Mai",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0011",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260089": {
+    "name": "Ngoại Hình Nữ - Áo Sơ Mi Sương Mai",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0011",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260088": {
+    "name": "Ngoại Hình Nam - Áo Sơ Mi Gió Thoảng",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0010",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260087": {
+    "name": "Ngoại Hình Nữ - Áo Sơ Mi Gió Thoảng",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0010",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260084": {
+    "name": "Ngoại Hình Nam - Áo Khoác Hoàn Vũ",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0009",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260083": {
+    "name": "Ngoại Hình Nữ - Váy Liền Hoàn Vũ",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0009",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260082": {
+    "name": "Ngoại Hình Nam - Áo Khoác Sao Sáng",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0008",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260081": {
+    "name": "Ngoại Hình Nữ - Váy Liền Sao Sáng",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0008",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "265063": {
+    "name": "Ngoại Hình Nam - Nhiệt Huyết Sôi Động",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0113",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265062": {
+    "name": "Ngoại Hình Nữ - Nhiệt Huyết Sôi Động",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0113",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265061": {
+    "name": "Ngoại Hình Nam - Người Bạn Vui Vẻ",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0114",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265060": {
+    "name": "Ngoại Hình Nữ - Người Bạn Vui Vẻ",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0114",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265059": {
+    "name": "Ngoại Hình Nam - Sải Bước Phóng Khoáng",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0115",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265058": {
+    "name": "Ngoại Hình Nữ - Sải Bước Phóng Khoáng",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0115",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265145": {
+    "name": "Ngoại Hình Nữ - Chiến Ký Vảy Lửa",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0056",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265146": {
+    "name": "Ngoại Hình Nam - Chiến Ký Vảy Lửa",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0056",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265044": {
+    "name": "Ngoại Hình Nữ - Đêm Nến Hân Hoan",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0059",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265045": {
+    "name": "Ngoại Hình Nam - Đêm Nến Hân Hoan",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0059",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265020": {
+    "name": "Ngoại Hình Nữ - Hư Âm Phế Tích",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0014",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265021": {
+    "name": "Ngoại Hình Nam - Hư Âm Phế Tích",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0014",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265028": {
+    "name": "Ngoại Hình Nữ - Đấu Sĩ Cuồng Nhiệt",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0030",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265029": {
+    "name": "Ngoại Hình Nam - Đấu Sĩ Cuồng Nhiệt",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0030",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265040": {
+    "name": "Ngoại Hình Nữ - Rừng Sâu Thần Bí",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0051",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265041": {
+    "name": "Ngoại Hình Nam - Rừng Sâu Thần Bí",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0051",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265119": {
+    "name": "Ngoại Hình Nữ - Lông Vũ Sảnh Tuyết",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0080",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265120": {
+    "name": "Ngoại Hình Nam - Lông Vũ Sảnh Tuyết",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0080",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265171": {
+    "name": "Ngoại Hình Nữ - Khúc Ca Đông Ấm",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0093",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265172": {
+    "name": "Ngoại Hình Nam - Khúc Ca Đông Ấm",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0093",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265111": {
+    "name": "Ngoại Hình Nữ - Núi Rừng Hoang Dã",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0084",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265112": {
+    "name": "Ngoại Hình Nam - Núi Rừng Hoang Dã",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0084",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265109": {
+    "name": "Ngoại Hình Nữ - Tâm Ý Chữa Lành",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0092",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265110": {
+    "name": "Ngoại Hình Nam - Tâm Ý Chữa Lành",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0092",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265201": {
+    "name": "Ngoại Hình Nữ - Sương Mai Bình Minh",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0094",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265202": {
+    "name": "Ngoại Hình Nam - Sương Mai Bình Minh",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0094",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265194": {
+    "name": "Ngoại Hình Nữ - Lưỡi Đao Sóng Biển",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0098",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265195": {
+    "name": "Ngoại Hình Nam - Lưỡi Đao Sóng Biển",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0098",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265141": {
+    "name": "Ngoại Hình Nữ - Đêm Khuya Ngon Giấc",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0068",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265142": {
+    "name": "Ngoại Hình Nam - Đêm Khuya Ngon Giấc",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0068",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265117": {
+    "name": "Ngoại Hình Nữ - Hương Thơm Lúa Mạch",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0050",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265118": {
+    "name": "Ngoại Hình Nam - Hương Thơm Lúa Mạch",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0050",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265239": {
+    "name": "Ngoại Hình Nữ - Mây Mù Rực Rỡ",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0100",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265240": {
+    "name": "Ngoại Hình Nam - Mây Mù Rực Rỡ",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0100",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265135": {
+    "name": "Ngoại Hình Nữ - Thần Cơ Mưu Lược",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0070",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265136": {
+    "name": "Ngoại Hình Nam - Thần Cơ Mưu Lược",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0070",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265139": {
+    "name": "Ngoại Hình Nữ - Nhiệt Huyết Tràn Đầy",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0071",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265140": {
+    "name": "Ngoại Hình Nam - Nhiệt Huyết Tràn Đầy",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0071",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265237": {
+    "name": "Ngoại Hình Nữ - Líu Lo Huyên Náo",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0104",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265238": {
+    "name": "Ngoại Hình Nam - Líu Lo Huyên Náo",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0104",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265394": {
+    "name": "Ngoại Hình Nữ - \"Butterfly Resplendence\"",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0121",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265395": {
+    "name": "Ngoại Hình Nam - \"Butterfly Resplendence\"",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0121",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265396": {
+    "name": "Ngoại Hình Nữ - \"Butterfly Resplendence\"",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0122",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265397": {
+    "name": "Ngoại Hình Nam - \"Butterfly Resplendence\"",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0122",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265329": {
+    "name": "Ngoại Hình Nam - \"Melody of Petals\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0133",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265328": {
+    "name": "Ngoại Hình Nữ - \"Melody of Petals\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0133",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265323": {
+    "name": "Ngoại Hình Nam - \"Phantom Prowl\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0130",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265322": {
+    "name": "Ngoại Hình Nữ - \"Phantom Prowl\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0130",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265327": {
+    "name": "Ngoại Hình Nam - \"Letter's Afterglow\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0131",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265326": {
+    "name": "Ngoại Hình Nữ - \"Letter's Afterglow\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0131",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  }
+}

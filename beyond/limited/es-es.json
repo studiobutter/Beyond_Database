@@ -1,0 +1,338 @@
+{
+  "261672": {
+    "name": "Aspecto masculino - Botas con dobladillo cómodas",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0043",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261671": {
+    "name": "Aspecto femenino - Botas con dobladillo cómodas",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0043",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261670": {
+    "name": "Aspecto masculino - Botas de cuello ardiente",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0042",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261669": {
+    "name": "Aspecto femenino - Botas de cuello ardiente",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0042",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261656": {
+    "name": "Aspecto masculino - Zapatillas rítmicas",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0013",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261655": {
+    "name": "Aspecto femenino - Zapatillas rítmicas",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0013",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261654": {
+    "name": "Aspecto masculino - Zapatillas rockeras",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0012",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261653": {
+    "name": "Aspecto femenino - Zapatillas rockeras",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0012",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261650": {
+    "name": "Aspecto masculino - Botas de media caña del rocío",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0011",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261649": {
+    "name": "Aspecto femenino - Botas de media caña del rocío",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0011",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261648": {
+    "name": "Aspecto masculino - Botas de media caña brisáceas",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0010",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261647": {
+    "name": "Aspecto femenino - Botas de media caña brisáceas",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0010",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261644": {
+    "name": "Aspecto masculino - Botas galácticas",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0009",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261643": {
+    "name": "Aspecto femenino - Botas largas galácticas",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0009",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261642": {
+    "name": "Aspecto masculino - Botas astrales",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0008",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261641": {
+    "name": "Aspecto femenino - Botas largas astrales",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0008",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260886": {
+    "name": "Aspecto masculino - Pantalones ajustados apacibles",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0043",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260885": {
+    "name": "Aspecto femenino - Minifalda apacible",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0043",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260884": {
+    "name": "Aspecto masculino - Pantalones ajustados llameantes",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0042",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260883": {
+    "name": "Aspecto femenino - Minifalda ardiente",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0042",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260876": {
+    "name": "Aspecto masculino - Pantalones bombachos rítmicos",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0013",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260875": {
+    "name": "Aspecto femenino - Pantalones deportivos rítmicos",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0013",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260874": {
+    "name": "Aspecto masculino - Pantalones bombachos rockeros",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0012",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260873": {
+    "name": "Aspecto femenino - Pantalones deportivos rockeros",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0012",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260870": {
+    "name": "Aspecto masculino - Pantalones bombachos del rocío",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0011",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260869": {
+    "name": "Aspecto femenino - Falda del rocío",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0011",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260868": {
+    "name": "Aspecto masculino - Pantalones bombachos brisáceos",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0010",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260867": {
+    "name": "Aspecto femenino - Falda brisácea",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0010",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260864": {
+    "name": "Aspecto masculino - Pantalones largos galácticos",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0009",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260863": {
+    "name": "Aspecto femenino - Mallas galácticas",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0009",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260862": {
+    "name": "Aspecto masculino - Pantalones largos estelares",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0008",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260861": {
+    "name": "Aspecto femenino - Mallas estelares",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0008",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260112": {
+    "name": "Aspecto masculino - Camiseta larga apacible",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0043",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260111": {
+    "name": "Aspecto femenino - Camiseta larga apacible",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0043",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260110": {
+    "name": "Aspecto masculino - Camiseta de manga larga ardiente",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0042",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260109": {
+    "name": "Aspecto femenino - Camiseta de manga larga ardiente",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0042",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260096": {
+    "name": "Aspecto masculino - Sudadera rítmica",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0013",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260095": {
+    "name": "Aspecto femenino - Sudadera rítmica",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0013",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260094": {
+    "name": "Aspecto masculino - Sudadera rockera",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0012",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260093": {
+    "name": "Aspecto femenino - Sudadera rockera",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0012",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260090": {
+    "name": "Aspecto masculino - Camisa del rocío",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0011",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260089": {
+    "name": "Aspecto femenino - Camisa del rocío",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0011",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260088": {
+    "name": "Aspecto masculino - Camisa brisácea",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0010",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260087": {
+    "name": "Aspecto femenino - Camisa brisácea",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0010",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260084": {
+    "name": "Aspecto masculino - Traje galáctico",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0009",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260083": {
+    "name": "Aspecto femenino - Vestido galáctico",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0009",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260082": {
+    "name": "Aspecto masculino - Traje astral",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0008",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260081": {
+    "name": "Aspecto femenino - Vestido astral",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0008",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "265062": {
+    "name": "Aspecto femenino - Ardor Competitivo",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0113",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265060": {
+    "name": "Aspecto femenino - Felicidad en Compañía",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0114",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265058": {
+    "name": "Aspecto femenino - Presteza Indómita",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0115",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "-4": {
+    "name": "Aspecto femenino - Presteza Indómita",
+    "rank": null,
+    "icon": "",
+    "type": ""
+  },
+  "-3": {
+    "name": "Aspecto femenino - Felicidad en Compañía",
+    "rank": null,
+    "icon": "",
+    "type": ""
+  },
+  "-2": {
+    "name": "Aspecto femenino - Ardor Competitivo",
+    "rank": null,
+    "icon": "",
+    "type": ""
+  },
+  "265145": {
+    "name": "Aspecto femenino - Batalla Escamosa",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0056",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "-1": {
+    "name": "Aspecto femenino - Batalla Escamosa",
+    "rank": null,
+    "icon": "",
+    "type": ""
+  }
+}

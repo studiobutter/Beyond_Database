@@ -1,0 +1,1886 @@
+{
+  "271640": {
+    "name": "Catálogo de componentes - Zapatillas de lona de caña alta: Marrón té",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0265",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271639": {
+    "name": "Catálogo de componentes - Zapatillas de lona de caña alta: Negro carbón",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0264",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271638": {
+    "name": "Catálogo de componentes - Zapatillas de lona de caña alta: Cian",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0263",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271637": {
+    "name": "Catálogo de componentes - Zapatillas deportivas multicolor de hombre: Castaño",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0245",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271636": {
+    "name": "Catálogo de componentes - Zapatillas deportivas multicolor de mujer: Brotes verdes",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0245",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271635": {
+    "name": "Catálogo de componentes - Zapatillas deportivas multicolor de hombre: Gris claro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0244",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271634": {
+    "name": "Catálogo de componentes - Zapatillas deportivas multicolor de mujer: Melocotón",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0244",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271633": {
+    "name": "Catálogo de componentes - Zapatillas deportivas multicolor de hombre: Azul marino",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0243",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271632": {
+    "name": "Catálogo de componentes - Zapatillas deportivas multicolor de mujer: Blanco grisáceo",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0243",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271631": {
+    "name": "Catálogo de componentes - Zapatos de cuero de tacón grueso: Blanco roto",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0203",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271630": {
+    "name": "Catálogo de componentes - Zapatos de cuero de tacón grueso: Morado claro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0202",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271629": {
+    "name": "Catálogo de componentes - Zapatos de cuero de tacón grueso: Rojo flamígero",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0201",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271628": {
+    "name": "Catálogo de componentes - Zapatos de cuero de tacón grueso: Negro tinta",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0200",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271627": {
+    "name": "Catálogo de componentes - Botas con cordones: Gris plomo",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0199",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271626": {
+    "name": "Catálogo de componentes - Botas con cordones: Marrón oscuro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0198",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271625": {
+    "name": "Catálogo de componentes - Botas de cuero: Marrón claro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0198",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271623": {
+    "name": "Catálogo de componentes - Botas de cuero: Negro tinta",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0197",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271622": {
+    "name": "Catálogo de componentes - Botas de cuero: Negro carbón",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0196",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271621": {
+    "name": "Catálogo de componentes - Botas de cuero: Marrón coco",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0196",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271620": {
+    "name": "Catálogo de componentes - Sandalias cómodas: Azul marino",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0173",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271619": {
+    "name": "Catálogo de componentes - Sandalias cómodas: Verde forestal",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0172",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271618": {
+    "name": "Catálogo de componentes - Sandalias cómodas: Blanco grisáceo",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0171",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271617": {
+    "name": "Catálogo de componentes - Sandalias frescas: Azul marino",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0119",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271616": {
+    "name": "Catálogo de componentes - Sandalias frescas: Verde oscuro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0118",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271615": {
+    "name": "Catálogo de componentes - Sandalias frescas: Marrón oscuro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0117",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271614": {
+    "name": "Catálogo de componentes - Zapatos de estudiante: Verde hoja",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0098",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271613": {
+    "name": "Catálogo de componentes - Zapatos de estudiante: Negro carbón",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0097",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271612": {
+    "name": "Catálogo de componentes - Zapatos de colegiala: Marrón té",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0097",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271611": {
+    "name": "Catálogo de componentes - Zapatos de estudiante: Rojo pardo",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0096",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271610": {
+    "name": "Catálogo de componentes - Zapatos de colegiala: Negro tinta",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0096",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271609": {
+    "name": "Catálogo de componentes - Zapatos de estudiante: Marrón oscuro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0095",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271608": {
+    "name": "Catálogo de componentes - Zapatos de colegiala: Blanco lunar",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0095",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271607": {
+    "name": "Catálogo de componentes - Botas de media caña con cordones: Blanco roto",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0082",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271606": {
+    "name": "Catálogo de componentes - Botas de media caña con cordones: Marrón rojizo",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0081",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271605": {
+    "name": "Catálogo de componentes - Botas de media caña sofisticadas: Gris pardo",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0080",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271604": {
+    "name": "Catálogo de componentes - Botas de media caña sofisticadas: Negro tinta",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0079",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271603": {
+    "name": "Catálogo de componentes - Botas de media caña: Marrón claro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0081",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271602": {
+    "name": "Catálogo de componentes - Botas de media caña: Marrón oscuro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0080",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271601": {
+    "name": "Catálogo de componentes - Botas de media caña: Negro tinta",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0079",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270860": {
+    "name": "Catálogo de componentes - Falda sencilla: Marrón coco",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0242",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270859": {
+    "name": "Catálogo de componentes - Falda sencilla: Rosa",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0241",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270858": {
+    "name": "Catálogo de componentes - Falda sencilla: Azul marino",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0240",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270857": {
+    "name": "Catálogo de componentes - Falda elegante: Verde hoja",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0239",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270856": {
+    "name": "Catálogo de componentes - Falda elegante: Azul tinta",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0238",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270855": {
+    "name": "Catálogo de componentes - Falda elegante: Marrón claro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0237",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270854": {
+    "name": "Catálogo de componentes - Pantalones cortos con dobladillo prácticos: Verde ánade",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0236",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270853": {
+    "name": "Catálogo de componentes - Pantalones cortos con dobladillo prácticos: Verde oscuro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0236",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270852": {
+    "name": "Catálogo de componentes - Pantalones cortos con dobladillo prácticos: Rojo flamígero",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0235",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270851": {
+    "name": "Catálogo de componentes - Pantalones cortos con dobladillo prácticos: Azul claro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0235",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270850": {
+    "name": "Catálogo de componentes - Pantalones cortos con dobladillo frescos: Azul oscuro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0234",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270849": {
+    "name": "Catálogo de componentes - Pantalones cortos con dobladillo frescos: Azul marino",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0234",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270848": {
+    "name": "Catálogo de componentes - Pantalones cortos con dobladillo frescos: Blanco puro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0233",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270846": {
+    "name": "Catálogo de componentes - Pantalones pitillo: Gris claro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0232",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270845": {
+    "name": "Catálogo de componentes - Pantalones pitillo: Rojo flamígero",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0231",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270844": {
+    "name": "Catálogo de componentes - Pantalones largos ajustados elegantes: Gris oscuro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0230",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270843": {
+    "name": "Catálogo de componentes - Pantalones largos ajustados elegantes: Verde hoja",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0230",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270842": {
+    "name": "Catálogo de componentes - Pantalones largos ajustados elegantes: Marrón coco",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0229",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270841": {
+    "name": "Catálogo de componentes - Pantalones largos ajustados elegantes: Azul oscuro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0229",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270840": {
+    "name": "Catálogo de componentes - Pantalones largos ajustados elegantes: Negro tinta",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0228",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270839": {
+    "name": "Catálogo de componentes - Pantalones largos ajustados elegantes: Azul claro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0228",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270836": {
+    "name": "Catálogo de componentes - Pantalones cortos rectos funcionales: Índigo",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0218",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270835": {
+    "name": "Catálogo de componentes - Pantalones cortos rectos funcionales: Marrón coco",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0217",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270834": {
+    "name": "Catálogo de componentes - Pantalones cortos rectos funcionales: Blanco puro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0216",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270833": {
+    "name": "Catálogo de componentes - Pantalones cortos rectos sencillos: Caqui",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0215",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270832": {
+    "name": "Catálogo de componentes - Pantalones cortos rectos sencillos: Negro tinta",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0214",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270831": {
+    "name": "Catálogo de componentes - Pantalones cortos rectos sencillos: Gris claro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0213",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270830": {
+    "name": "Catálogo de componentes - Pantalones largos ceñidos funcionales: Verde hoja",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0212",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270829": {
+    "name": "Catálogo de componentes - Pantalones largos ceñidos funcionales: Marrón coco",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0211",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270828": {
+    "name": "Catálogo de componentes - Pantalones largos ceñidos funcionales: Negro tinta",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0210",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270827": {
+    "name": "Catálogo de componentes - Falda plisada elegante: Verde ánade",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0209",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270826": {
+    "name": "Catálogo de componentes - Falda plisada elegante: Índigo",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0208",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270825": {
+    "name": "Catálogo de componentes - Falda plisada elegante: Blanco puro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0207",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270824": {
+    "name": "Catálogo de componentes - Falda plisada clásica: Rojo flamígero",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0206",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270823": {
+    "name": "Catálogo de componentes - Falda plisada clásica: Azul claro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0205",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270822": {
+    "name": "Catálogo de componentes - Falda plisada clásica: Azul tinta",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0204",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270821": {
+    "name": "Catálogo de componentes - Pantalones largos bombachos funcionales: Verde hoja",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0195",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270820": {
+    "name": "Catálogo de componentes - Pantalones largos bombachos funcionales: Negro azabache",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0194",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270819": {
+    "name": "Catálogo de componentes - Pantalones largos bombachos sencillos: Blanco puro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0193",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270818": {
+    "name": "Catálogo de componentes - Pantalones largos bombachos sencillos: Verde oscuro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0192",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270817": {
+    "name": "Catálogo de componentes - Pantalones largos bombachos sencillos: Índigo",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0191",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270816": {
+    "name": "Catálogo de componentes - Pantalones cortos bombachos funcionales: Verde azulado",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0190",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270815": {
+    "name": "Catálogo de componentes - Pantalones cortos bombachos funcionales: Caqui",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0189",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270814": {
+    "name": "Catálogo de componentes - Pantalones cortos bombachos funcionales: Negro azabache",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0188",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270813": {
+    "name": "Catálogo de componentes - Pantalones cortos bombachos sencillos: Verde claro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0187",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270812": {
+    "name": "Catálogo de componentes - Pantalones cortos bombachos sencillos: Gris oscuro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0186",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270811": {
+    "name": "Catálogo de componentes - Pantalones cortos bombachos sencillos: Azul marino",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0185",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270810": {
+    "name": "Catálogo de componentes - Pantalones de campana modernos: Gris claro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0170",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270809": {
+    "name": "Catálogo de componentes - Pantalones de campana modernos: Índigo",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0169",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270808": {
+    "name": "Catálogo de componentes - Pantalones de campana sencillos: Negro tinta",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0168",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270807": {
+    "name": "Catálogo de componentes - Pantalones de campana sencillos: Azul marino",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0167",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270806": {
+    "name": "Catálogo de componentes - Pantalones cortos deportivos ágiles: Negro tinta",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0111",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270805": {
+    "name": "Catálogo de componentes - Pantalones cortos deportivos ágiles: Gris claro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0110",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270804": {
+    "name": "Catálogo de componentes - Pantalones cortos deportivos ágiles: Azul oscuro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0109",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270803": {
+    "name": "Catálogo de componentes - Pantalones cortos deportivos sencillos: Caqui",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0108",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270802": {
+    "name": "Catálogo de componentes - Pantalones cortos deportivos sencillos: Verde hierba",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0107",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270801": {
+    "name": "Catálogo de componentes - Pantalones cortos deportivos sencillos: Marrón coco",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0106",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270080": {
+    "name": "Catálogo de componentes - Camisa formal sencilla: Blanco puro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0262",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270079": {
+    "name": "Catálogo de componentes - Camisa formal sencilla: Azul marino",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0261",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270078": {
+    "name": "Catálogo de componentes - Camisa formal seria: Gris oscuro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0260",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270077": {
+    "name": "Catálogo de componentes - Camisa formal seria: Blanco grisáceo",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0259",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270076": {
+    "name": "Catálogo de componentes - Camisa de vestir formal: Gris claro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0258",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270075": {
+    "name": "Catálogo de componentes - Camisa de vestir formal: Blanco grisáceo",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0257",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270074": {
+    "name": "Catálogo de componentes - Sudadera con capucha de manga larga cómoda: Verde oscuro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0256",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270073": {
+    "name": "Catálogo de componentes - Sudadera con capucha de manga larga práctica: Azul marino",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0256",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270072": {
+    "name": "Catálogo de componentes - Sudadera con capucha de manga larga cómoda: Gris oscuro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0255",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270071": {
+    "name": "Catálogo de componentes - Sudadera con capucha de manga larga práctica: Verde azulado",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0255",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270070": {
+    "name": "Catálogo de componentes - Sudadera con capucha de manga larga práctica: Blanco puro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0254",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270069": {
+    "name": "Catálogo de componentes - Sudadera con capucha de manga larga práctica: Rosa flor",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0254",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270068": {
+    "name": "Catálogo de componentes - Sudadera de manga larga con capucha práctica: Marrón coco",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0253",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270067": {
+    "name": "Catálogo de componentes - Sudadera de manga larga con capucha práctica: Morado oscuro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0253",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270066": {
+    "name": "Catálogo de componentes - Camiseta deportiva de manga larga sofisticada: Caqui",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0252",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270065": {
+    "name": "Catálogo de componentes - Sudadera con capucha de manga larga práctica: Rosa",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0252",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270064": {
+    "name": "Catálogo de componentes - Camiseta deportiva de manga larga sofisticada: Rojo flamígero",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0251",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270063": {
+    "name": "Catálogo de componentes - Sudadera con capucha de manga larga práctica: Verde hierba",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0251",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270062": {
+    "name": "Catálogo de componentes - Camisa de gala: Morado oscuro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0250",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270061": {
+    "name": "Catálogo de componentes - Camisa de gala: Negro tinta",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0249",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270060": {
+    "name": "Catálogo de componentes - Camisa de gala: Azul oscuro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0248",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270059": {
+    "name": "Catálogo de componentes - Camisa de vestir elegante: Negro tinta",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0247",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270058": {
+    "name": "Catálogo de componentes - Camisa de vestir elegante: Blanco puro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0246",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270057": {
+    "name": "Catálogo de componentes - Camisa casual de diablillo: Rojo flamígero",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0226",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270056": {
+    "name": "Catálogo de componentes - Camisa casual de diablillo: Negro tinta",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0225",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270055": {
+    "name": "Catálogo de componentes - Camisa casual de palmeras: Azul marino",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0224",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270054": {
+    "name": "Catálogo de componentes - Camisa casual de palmeras: Verde oscuro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0223",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270053": {
+    "name": "Catálogo de componentes - Sudadera de manga corta con grafiti: Azul grisáceo",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0222",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270052": {
+    "name": "Catálogo de componentes - Sudadera de manga corta con grafiti: Negro tinta",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0221",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270051": {
+    "name": "Catálogo de componentes - Sudadera de manga corta con capucha sofisticada: Índigo",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0220",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270050": {
+    "name": "Catálogo de componentes - Sudadera de manga corta con capucha sofisticada: Naranja soleado",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0219",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270049": {
+    "name": "Catálogo de componentes - Blusa con mangas abullonadas: Azul tinta",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0184",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270048": {
+    "name": "Catálogo de componentes - Blusa con mangas abullonadas: Verde ánade",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0183",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270047": {
+    "name": "Catálogo de componentes - Blusa con mangas abullonadas: Marrón claro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0182",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270046": {
+    "name": "Catálogo de componentes - Blusa con mangas abullonadas: Carmesí alizarina",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0181",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270045": {
+    "name": "Catálogo de componentes - Camiseta de marinero alegre: Azul y blanco",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0179",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270044": {
+    "name": "Catálogo de componentes - Camiseta de marinero alegre: Azul marino",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0178",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270043": {
+    "name": "Catálogo de componentes - Camiseta de marinero alegre: Azul tinta",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0177",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270042": {
+    "name": "Catálogo de componentes - Camiseta elegante de marinero: Morado y blanco",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0180",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270041": {
+    "name": "Catálogo de componentes - Camiseta elegante de marinero: Negro tinta",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0179",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270040": {
+    "name": "Catálogo de componentes - Camiseta elegante de marinero: Azul y blanco",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0178",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270039": {
+    "name": "Catálogo de componentes - Camiseta elegante de marinero: Azul tinta",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0177",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270038": {
+    "name": "Catálogo de componentes - Jersey de cuello alto sin mangas: Azul marino",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0176",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270037": {
+    "name": "Catálogo de componentes - Jersey de cuello alto sin mangas: Negro tinta",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0175",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270036": {
+    "name": "Catálogo de componentes - Jersey de cuello alto sin mangas: Blanco roto",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0174",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270035": {
+    "name": "Catálogo de componentes - Camisola sencilla: Blanco puro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0166",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270034": {
+    "name": "Catálogo de componentes - Camisola sencilla: Rosa",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0165",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270033": {
+    "name": "Catálogo de componentes - Camisola sencilla: Azul marino",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0164",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270032": {
+    "name": "Catálogo de componentes - Camisola sencilla: Negro tinta",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0163",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270031": {
+    "name": "Catálogo de componentes - Blusa de punto con mangas cortas abullonadas: Verde hierba",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0105",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270030": {
+    "name": "Catálogo de componentes - Blusa de punto con mangas cortas abullonadas: Negro tinta",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0104",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270029": {
+    "name": "Catálogo de componentes - Blusa de punto con mangas cortas abullonadas: Amarillo limón",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0103",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270028": {
+    "name": "Catálogo de componentes - Blusa de punto con mangas cortas abullonadas: Blanco puro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0102",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270027": {
+    "name": "Catálogo de componentes - Bata con mangas cortas abullonadas: Gris claro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0101",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270026": {
+    "name": "Catálogo de componentes - Bata con mangas cortas abullonadas: Rosa",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0100",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270025": {
+    "name": "Catálogo de componentes - Bata con mangas cortas abullonadas: Beige",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0099",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270024": {
+    "name": "Catálogo de componentes - Camisa de manga media clásica: Gris claro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0094",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270023": {
+    "name": "Catálogo de componentes - Camisa de manga media clásica: Azul marino",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0093",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270022": {
+    "name": "Catálogo de componentes - Camisa de manga media clásica: Blanco puro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0092",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270021": {
+    "name": "Catálogo de componentes - Camisa de manga media clásica: Verde claro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0091",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270020": {
+    "name": "Catálogo de componentes - Camisa de manga media eficaz: Marrón coco",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0090",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270019": {
+    "name": "Catálogo de componentes - Camisa de manga media eficaz: Negro tinta",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0089",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270018": {
+    "name": "Catálogo de componentes - Blusa dulce: Rojo vino",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0088",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270017": {
+    "name": "Catálogo de componentes - Blusa dulce: Marrón coco",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0087",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270016": {
+    "name": "Catálogo de componentes - Blusa dulce: Gris claro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0086",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270015": {
+    "name": "Catálogo de componentes - Blusa sencilla: Marrón coco",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0085",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270014": {
+    "name": "Catálogo de componentes - Blusa sencilla: Gris claro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0084",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270013": {
+    "name": "Catálogo de componentes - Blusa sencilla: Negro tinta",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0083",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270012": {
+    "name": "Catálogo de componentes - Camiseta Foca Abotargada: Azul marino",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0012",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270011": {
+    "name": "Catálogo de componentes - Camiseta Fatui: Negro tinta",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0011",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270010": {
+    "name": "Catálogo de componentes - Camiseta Guoba: Original",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0010",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270009": {
+    "name": "Catálogo de componentes - Camiseta Slime: Azul celeste",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0009",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270008": {
+    "name": "Catálogo de componentes - Camiseta cristalóptero Anemo: Negro tinta",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0008",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270007": {
+    "name": "Catálogo de componentes - Camiseta de competición de baile: Rojo flamígero",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0007",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270006": {
+    "name": "Catálogo de componentes - Camiseta aranara: Verde hierba",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0006",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270005": {
+    "name": "Catálogo de componentes - Camiseta Foca Abotargada: Gris oscuro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0005",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270004": {
+    "name": "Catálogo de componentes - Camiseta con garras afiladas: Negro tinta",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0004",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270003": {
+    "name": "Catálogo de componentes - Camiseta aranara: Blanco puro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0003",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270002": {
+    "name": "Catálogo de componentes - Camiseta estrellada: Gris claro",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0002",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270001": {
+    "name": "Catálogo de componentes - Camiseta dentada: Azul marino",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0001",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274200": {
+    "name": "Catálogo de componentes - Guantes de Fragancia Festiva",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274199": {
+    "name": "Catálogo de componentes - Aretes de Fragancia Festiva",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274196": {
+    "name": "Catálogo de componentes - Calcetines de Flor Soleada",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274195": {
+    "name": "Catálogo de componentes - Cinta para el pelo de Flor Soleada",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274193": {
+    "name": "Catálogo de componentes - Adorno de Flor Soleada",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274192": {
+    "name": "Catálogo de componentes - Guantes de Micología",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274191": {
+    "name": "Catálogo de componentes - Aretes de Micología",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274189": {
+    "name": "Catálogo de componentes - Calcetines de Mandarina",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274188": {
+    "name": "Catálogo de componentes - Cinta para el pelo de Mandarina",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274186": {
+    "name": "Catálogo de componentes - Adorno de Mandarina",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274173": {
+    "name": "Catálogo de componentes - Guantes del Vuelo Intrépido",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274172": {
+    "name": "Catálogo de componentes - Lentes del Vuelo Intrépido",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274175": {
+    "name": "Catálogo de componentes - Guantes del Vuelo Cauto",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274174": {
+    "name": "Catálogo de componentes - Lentes del Vuelo Cauto",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274166": {
+    "name": "Catálogo de componentes - Sombrero de ala ancha desenfadado",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Headwear_S0043",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274164": {
+    "name": "Catálogo de componentes - Sombrero flamígero de ala ancha",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Headwear_S0042",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274162": {
+    "name": "Catálogo de componentes - Calcetines carmesí de media caña",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_LegAcc_S0037",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274161": {
+    "name": "Catálogo de componentes - Calcetines claros de media caña",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_LegAcc_S0036",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274160": {
+    "name": "Catálogo de componentes - Sombrero de marinero de aguas revueltas",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Headwear_S0032",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274159": {
+    "name": "Catálogo de componentes - Calcetines de marinero de aguas revueltas",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_LegAcc_S0032",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274154": {
+    "name": "Catálogo de componentes - Brazaletes de la serenata",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_ArmAcc_S0026",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274153": {
+    "name": "Catálogo de componentes - Laurel de la serenata",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Headwear_S0026",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274152": {
+    "name": "Catálogo de componentes - Collar de la serenata",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Neckwear_S0026",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273905": {
+    "name": "Catálogo de componentes - Marca bajo los labios",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_FacialMakeup_P0072",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273903": {
+    "name": "Catálogo de componentes - Marca bajo el ojo",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_FacialMakeup_P0026",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273901": {
+    "name": "Catálogo de componentes - Pecas",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_FacialMakeup_P0025",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273704": {
+    "name": "Catálogo de componentes - Pergamino antiguo: Difuminado",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_EyeShadow_P0026",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273702": {
+    "name": "Catálogo de componentes - Pergamino antiguo: Uniforme",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_EyeShadow_P0025",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273603": {
+    "name": "Catálogo de componentes - Pudín de melocotón",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Lipstick_P0026",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273601": {
+    "name": "Catálogo de componentes - Misiva ingeniosa",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Lipstick_P0025",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273211": {
+    "name": "Catálogo de componentes - Mermelada de bayas",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Pupil_P0062",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273209": {
+    "name": "Catálogo de componentes - Lluvia de zafiros",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Pupil_P0061",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273207": {
+    "name": "Catálogo de componentes - Aroma mentolado",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Pupil_P0060",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273205": {
+    "name": "Catálogo de componentes - Acuerdo cítrico",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Pupil_P0059",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273203": {
+    "name": "Catálogo de componentes - Odisea anaranjada",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Pupil_P0058",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273201": {
+    "name": "Catálogo de componentes - Bayas del bosque",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Pupil_P0057",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272918": {
+    "name": "Catálogo de componentes - Misiva floral de la mañana",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Face_P0071",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272916": {
+    "name": "Catálogo de componentes - Reposo de la mariposa crepuscular",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Face_P0070",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272914": {
+    "name": "Catálogo de componentes - Confort soleado",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Face_P0069",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272511": {
+    "name": "Catálogo de componentes - Estandartes heroicos: Dorado",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0038",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272509": {
+    "name": "Catálogo de componentes - Estandartes heroicos: Marrón",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0037",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272507": {
+    "name": "Catálogo de componentes - Estandartes heroicos: Negro",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0036",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272505": {
+    "name": "Catálogo de componentes - Luna nueva: Dorado",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0035",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272503": {
+    "name": "Catálogo de componentes - Luna nueva: Marrón",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0034",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272501": {
+    "name": "Catálogo de componentes - Luna nueva: Negro",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0033",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272410": {
+    "name": "Catálogo de componentes - Pelo champi",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Hair_P0116",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272409": {
+    "name": "Catálogo de componentes - Flequillo largo y recto",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Hair_P0116",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272408": {
+    "name": "Catálogo de componentes - Afro voluminoso",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Hair_P0115",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272407": {
+    "name": "Catálogo de componentes - Coletas cortas",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Hair_P0115",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272406": {
+    "name": "Catálogo de componentes - Raya lateral",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Hair_P0114",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272405": {
+    "name": "Catálogo de componentes - Coleta reservada",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Hair_P0114",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272404": {
+    "name": "Catálogo de componentes - Pelo erizado",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Hair_P0113",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272403": {
+    "name": "Catálogo de componentes - Coletas de caramelo",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Hair_P0113",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272402": {
+    "name": "Catálogo de componentes - Pelo corto fiable",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Hair_P0112",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272401": {
+    "name": "Catálogo de componentes - Pelo corto desenfadado",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Hair_P0112",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271756": {
+    "name": "Catálogo de componentes - Zapatos de cuero de Fragancia Festiva",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271754": {
+    "name": "Catálogo de componentes - Getas de Flor Soleada",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271752": {
+    "name": "Catálogo de componentes - Zapatos de cuero de Micología",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271750": {
+    "name": "Catálogo de componentes - Getas de Mandarina",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271747": {
+    "name": "Catálogo de componentes - Zapatos de tela de Cymbidium",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271745": {
+    "name": "Catálogo de componentes - Zapatos de tela de Orquídea",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271676": {
+    "name": "Catálogo de componentes - Botas altas del Vuelo Cauto",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271674": {
+    "name": "Catálogo de componentes - Botas altas del Vuelo Intrépido",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271668": {
+    "name": "Catálogo de componentes - Botas de brocado carmesí",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0037",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271666": {
+    "name": "Catálogo de componentes - Botas de brocado claro",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0036",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271664": {
+    "name": "Catálogo de componentes - Zapatos de cuero furiamarina",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0032",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271660": {
+    "name": "Catálogo de componentes - Sandalias de la serenata",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0026",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271658": {
+    "name": "Catálogo de componentes - Zapatillas rítmicas de baile",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0065",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271652": {
+    "name": "Catálogo de componentes - Botas de media caña foliáceas",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0064",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271646": {
+    "name": "Catálogo de componentes - Botas insondables",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0063",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271645": {
+    "name": "Catálogo de componentes - Botas largas insondables",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0063",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270982": {
+    "name": "Catálogo de componentes - Pantalones de Fragancia Festiva",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270981": {
+    "name": "Catálogo de componentes - Falda corta de Fragancia Festiva",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270980": {
+    "name": "Catálogo de componentes - Pantalones cortos de Flor Soleada",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270979": {
+    "name": "Catálogo de componentes - Pantalones de Micología",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270978": {
+    "name": "Catálogo de componentes - Falda larga de Cymbidium",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270977": {
+    "name": "Catálogo de componentes - Falda corta de Micología",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270976": {
+    "name": "Catálogo de componentes - Pantalones de Cymbidium",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270975": {
+    "name": "Catálogo de componentes - Pantalones cortos de Mandarina",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270974": {
+    "name": "Catálogo de componentes - Pantalones de Orquídea",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270973": {
+    "name": "Catálogo de componentes - Falda larga de Orquídea",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270890": {
+    "name": "Catálogo de componentes - Pantalones cortos del Vuelo Cauto",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270889": {
+    "name": "Catálogo de componentes - Falda corta del Vuelo Cauto",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270888": {
+    "name": "Catálogo de componentes - Pantalones cortos del Vuelo Intrépido",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270887": {
+    "name": "Catálogo de componentes - Falda corta del Vuelo Intrépido",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270882": {
+    "name": "Catálogo de componentes - Pantalones ceñidos negros",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0037",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270880": {
+    "name": "Catálogo de componentes - Pantalones ceñidos rocosos",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0036",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270878": {
+    "name": "Catálogo de componentes - Pantalones bombachos de baile",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0065",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270877": {
+    "name": "Catálogo de componentes - Pantalones deportivos de baile",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0065",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270872": {
+    "name": "Catálogo de componentes - Pantalones bombachos foliáceos",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0064",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270871": {
+    "name": "Catálogo de componentes - Falda foliácea",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0064",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270866": {
+    "name": "Catálogo de componentes - Pantalones insondables",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0063",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270865": {
+    "name": "Catálogo de componentes - Mallas insondables",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0063",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270236": {
+    "name": "Catálogo de componentes - Camisa corta de Fragancia Festiva",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270233": {
+    "name": "Catálogo de componentes - Prenda superior de Flor Soleada",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270232": {
+    "name": "Catálogo de componentes - Camisa corta de Micología",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270230": {
+    "name": "Catálogo de componentes - Vestimenta de Cymbidium",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270229": {
+    "name": "Catálogo de componentes - Prenda superior de Mandarina",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270225": {
+    "name": "Catálogo de componentes - Vestimenta de Orquídea",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270115": {
+    "name": "Catálogo de componentes - Uniforme del Vuelo Cauto",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270114": {
+    "name": "Catálogo de componentes - Uniforme del Vuelo Intrépido",
+    "rank": 3,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270108": {
+    "name": "Catálogo de componentes - Camiseta de manga larga carmesí",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0037",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270107": {
+    "name": "Catálogo de componentes - Vestido carmesí",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0037",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270106": {
+    "name": "Catálogo de componentes - Camiseta de manga larga aguamarina",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0036",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270105": {
+    "name": "Catálogo de componentes - Vestido aguamarina",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0036",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270104": {
+    "name": "Catálogo de componentes - Atuendo de marinero de aguas revueltas",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0032",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270100": {
+    "name": "Catálogo de componentes - Túnica de la serenata",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0026",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270098": {
+    "name": "Catálogo de componentes - Sudadera de baile",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0065",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270092": {
+    "name": "Catálogo de componentes - Camisa foliácea",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0064",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270086": {
+    "name": "Catálogo de componentes - Traje insondable",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0063",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270085": {
+    "name": "Catálogo de componentes - Vestido insondable",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0063",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "250430": {
+    "name": "Sonrisa forzada",
+    "rank": 3,
+    "icon": "UI_UGC_Emoji_Rare_11",
+    "type": "BEYOND_MATERIAL_EMOJI"
+  },
+  "250429": {
+    "name": "Sentarse en una esquina",
+    "rank": 3,
+    "icon": "UI_UGC_Emoji_Rare_10",
+    "type": "BEYOND_MATERIAL_EMOJI"
+  },
+  "250428": {
+    "name": "Apretón de manos",
+    "rank": 3,
+    "icon": "UI_UGC_Emoji_Rare_09",
+    "type": "BEYOND_MATERIAL_EMOJI"
+  },
+  "250427": {
+    "name": "Servir el té",
+    "rank": 3,
+    "icon": "UI_UGC_Emoji_Rare_07",
+    "type": "BEYOND_MATERIAL_EMOJI"
+  },
+  "250426": {
+    "name": "Beber té",
+    "rank": 3,
+    "icon": "UI_UGC_Emoji_Rare_06",
+    "type": "BEYOND_MATERIAL_EMOJI"
+  },
+  "250425": {
+    "name": "Me siento mal",
+    "rank": 3,
+    "icon": "UI_UGC_Emoji_Rare_05",
+    "type": "BEYOND_MATERIAL_EMOJI"
+  },
+  "250424": {
+    "name": "Saludo",
+    "rank": 3,
+    "icon": "UI_UGC_Emoji_Rare_04",
+    "type": "BEYOND_MATERIAL_EMOJI"
+  },
+  "250423": {
+    "name": "Sudando",
+    "rank": 3,
+    "icon": "UI_UGC_Emoji_Rare_03",
+    "type": "BEYOND_MATERIAL_EMOJI"
+  },
+  "250440": {
+    "name": "Enfado",
+    "rank": 3,
+    "icon": "UI_UGC_Emoji_SuperRare_11",
+    "type": "BEYOND_MATERIAL_EMOJI"
+  },
+  "250421": {
+    "name": "Elogiar",
+    "rank": 3,
+    "icon": "UI_UGC_Emoji_Rare_01",
+    "type": "BEYOND_MATERIAL_EMOJI"
+  },
+  "250137": {
+    "name": "Asentir con fuerza",
+    "rank": 3,
+    "icon": "UI_UGC_ActionIcon_UNod02",
+    "type": "BEYOND_MATERIAL_POSE"
+  },
+  "250135": {
+    "name": "Secándose el sudor",
+    "rank": 3,
+    "icon": "UI_UGC_ActionIcon_UNervous01",
+    "type": "BEYOND_MATERIAL_POSE"
+  },
+  "250133": {
+    "name": "Me gusta",
+    "rank": 3,
+    "icon": "UI_UGC_ActionIcon_ULike01",
+    "type": "BEYOND_MATERIAL_POSE"
+  },
+  "250129": {
+    "name": "Toc, toc...",
+    "rank": 3,
+    "icon": "UI_UGC_ActionIcon_UKnock01",
+    "type": "BEYOND_MATERIAL_POSE"
+  },
+  "250121": {
+    "name": "Moviendo la mano",
+    "rank": 3,
+    "icon": "UI_UGC_ActionIcon_UHandWave01",
+    "type": "BEYOND_MATERIAL_POSE"
+  },
+  "250114": {
+    "name": "Con frío",
+    "rank": 3,
+    "icon": "UI_UGC_ActionIcon_UCold01",
+    "type": "BEYOND_MATERIAL_POSE"
+  },
+  "250110": {
+    "name": "Animar con ambas manos",
+    "rank": 3,
+    "icon": "UI_UGC_ActionIcon_UCheer01",
+    "type": "BEYOND_MATERIAL_POSE"
+  },
+  "250108": {
+    "name": "Reverencia",
+    "rank": 3,
+    "icon": "UI_UGC_ActionIcon_UBow01",
+    "type": "BEYOND_MATERIAL_POSE"
+  },
+  "250103": {
+    "name": "Manos en la cintura",
+    "rank": 3,
+    "icon": "UI_UGC_ActionIcon_UAkimbo02",
+    "type": "BEYOND_MATERIAL_POSE"
+  },
+  "250101": {
+    "name": "Ven aquí",
+    "rank": 3,
+    "icon": "UI_UGC_ActionIcon_UAggression01",
+    "type": "BEYOND_MATERIAL_POSE"
+  },
+  "275250": {
+    "name": "Catálogo de conjuntos - Fantasía Cromática",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Optional_Suit_S0112",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "275235": {
+    "name": "Catálogo de conjuntos - Frutas del Bosque",
+    "rank": 4,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "275143": {
+    "name": "Catálogo de conjuntos - Aspiraciones Viajeras",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Optional_Suit_S0073",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "275115": {
+    "name": "Catálogo de conjuntos - Enredadera Otoñal",
+    "rank": 4,
+    "icon": "",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "275024": {
+    "name": "Catálogo de conjuntos - Visionario del Alba",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Optional_Suit_S0025",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "275018": {
+    "name": "Catálogo de conjuntos - Balizaestelar",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Optional_Suit_S0007",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "275016": {
+    "name": "Catálogo de conjuntos - Callejero Extravagante",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Optional_Suit_S0006",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  }
+}

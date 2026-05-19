@@ -1,0 +1,590 @@
+{
+  "261672": {
+    "name": "Manekin Cosmetic - \"Leisurely Fold-over Boots\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0043",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261671": {
+    "name": "Manekina Cosmetic - \"Leisurely Fold-over Boots\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0043",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261670": {
+    "name": "Manekin Cosmetic - \"Blazing Fold-over Boots\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0042",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261669": {
+    "name": "Manekina Cosmetic - \"Blazing Fold-over Boots\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0042",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261656": {
+    "name": "Manekin Cosmetic - \"Rhythmic Beat Shoes\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0013",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261655": {
+    "name": "Manekina Cosmetic - \"Rhythmic Beat Shoes\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0013",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261654": {
+    "name": "Manekin Cosmetic - \"Rock 'n' Roll Beat Shoes\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0012",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261653": {
+    "name": "Manekina Cosmetic - \"Rock 'n' Roll Beat Shoes\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0012",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261650": {
+    "name": "Manekin Cosmetic - \"Dewdrop Mid-Calf Boots\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0011",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261649": {
+    "name": "Manekina Cosmetic: \"Dewdrop Mid-Calf Boots\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0011",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261648": {
+    "name": "Manekin Cosmetic: \"Breezy Mid-Calf Boots\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0010",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261647": {
+    "name": "Manekina Cosmetic: \"Breezy Mid-Calf Boots\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0010",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261644": {
+    "name": "Manekin Cosmetic: \"Worldly Boots\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0009",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261643": {
+    "name": "Manekina Cosmetic: \"Worldly Long Boots\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0009",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261642": {
+    "name": "Manekin Cosmetic: \"Astral Boots\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0008",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261641": {
+    "name": "Manekina Cosmetic: \"Astral Long Boots\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0008",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260886": {
+    "name": "Manekin Cosmetic - \"Leisurely Skinny Pants\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0043",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260885": {
+    "name": "Manekina Cosmetic - \"Leisurely Mini Skirt\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0043",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260884": {
+    "name": "Manekin Cosmetic - \"Blazing Skinny Pants\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0042",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260883": {
+    "name": "Manekina Cosmetic - \"Blazing Mini Skirt\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0042",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260876": {
+    "name": "Manekin Cosmetic - \"Rhythmic Tapered Pants\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0013",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260875": {
+    "name": "Manekina Cosmetic - \"Rhythmic Track Pants\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0013",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260874": {
+    "name": "Manekin Cosmetic - \"Rock 'n' Roll Tapered Pants\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0012",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260873": {
+    "name": "Manekina Cosmetic - \"Rock 'n' Roll Track Pants\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0012",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260870": {
+    "name": "Manekin Cosmetic - \"Dewdrop Tapered Pants\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0011",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260869": {
+    "name": "Manekina Cosmetic - \"Dewdrop Skirt\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0011",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260868": {
+    "name": "Manekin Cosmetic - \"Breezy Tapered Pants\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0010",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260867": {
+    "name": "Manekina Cosmetic - \"Breezy Skirt\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0010",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260864": {
+    "name": "Manekin Cosmetic - \"Worldly Pants\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0009",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260863": {
+    "name": "Manekina Cosmetic - \"Worldly Safety Shorts\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0009",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260862": {
+    "name": "Manekin Cosmetic - \"Astral Pants\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0008",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260861": {
+    "name": "Manekina Cosmetic - \"Astral Safety Shorts\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0008",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260112": {
+    "name": "Manekin Cosmetic - \"Leisurely Long Sleeve Tunic\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0043",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260111": {
+    "name": "Manekina Cosmetic - \"Leisurely Long Sleeve Tunic\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0043",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260110": {
+    "name": "Manekin Cosmetic - \"Blazing Long Sleeve Tunic\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0042",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260109": {
+    "name": "Manekina Cosmetic - \"Blazing Long Sleeve Tunic\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0042",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260096": {
+    "name": "Manekin Cosmetic - \"Rhythmic Hoodie\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0013",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260095": {
+    "name": "Manekina Cosmetic - \"Rhythmic Hoodie\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0013",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260094": {
+    "name": "Manekin Cosmetic - \"Rock 'n' Roll Hoodie\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0012",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260093": {
+    "name": "Manekina Cosmetic - \"Rock 'n' Roll Hoodie\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0012",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260090": {
+    "name": "Manekin Cosmetic - \"Dewdrop Shirt\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0011",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260089": {
+    "name": "Manekina Cosmetic - \"Dewdrop Shirt\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0011",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260088": {
+    "name": "Manekin Cosmetic - \"Breezy Shirt\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0010",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260087": {
+    "name": "Manekina Cosmetic - \"Breezy Shirt\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0010",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260084": {
+    "name": "Manekin Cosmetic - \"Worldly Coat\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0009",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260083": {
+    "name": "Manekina Cosmetic - \"Worldly Dress\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0009",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260082": {
+    "name": "Manekin Cosmetic - \"Astral Coat\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0008",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260081": {
+    "name": "Manekina Cosmetic - \"Astral Dress\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0008",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "265063": {
+    "name": "Manekin Cosmetic - \"Blazing Ambition\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0113",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265062": {
+    "name": "Manekina Cosmetic - \"Blazing Ambition\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0113",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265061": {
+    "name": "Manekin Cosmetic - \"Cheerful Playmate\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0114",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265060": {
+    "name": "Manekina Cosmetic - \"Cheerful Playmate\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0114",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265059": {
+    "name": "Manekin Cosmetic - \"Sleek Sprint\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0115",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265058": {
+    "name": "Manekina Cosmetic - \"Sleek Sprint\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0115",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265145": {
+    "name": "Manekina Cosmetic - \"Scaleblade Chronicles\"",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0056",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265146": {
+    "name": "Manekin Cosmetic - \"Scaleblade Chronicles\"",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0056",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265044": {
+    "name": "Manekina Cosmetic - \"Candlelit Revelry\"",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0059",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265045": {
+    "name": "Manekin Cosmetic - \"Candlelit Revelry\"",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0059",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265020": {
+    "name": "Manekina Cosmetic - \"Sonic Ruins\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0014",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265021": {
+    "name": "Manekin Cosmetic - \"Sonic Ruins\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0014",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265028": {
+    "name": "Manekina Cosmetic - \"Fervent Fighter\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0030",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265029": {
+    "name": "Manekin Cosmetic - \"Fervent Fighter\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0030",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265040": {
+    "name": "Manekina Cosmetic - \"Mystic Forest\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0051",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265041": {
+    "name": "Manekin Cosmetic - \"Mystic Forest\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0051",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265119": {
+    "name": "Manekina Cosmetic - \"Frosty Plume\"",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0080",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265120": {
+    "name": "Manekin Cosmetic - \"Frosty Plume\"",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0080",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265171": {
+    "name": "Manekina Cosmetic - \"Winter's Warmth\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0093",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265172": {
+    "name": "Manekin Cosmetic - \"Winter's Warmth\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0093",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265111": {
+    "name": "Manekina Cosmetic - \"Wildpeak Echoes\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0084",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265112": {
+    "name": "Manekin Cosmetic - \"Wildpeak Echoes\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0084",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265109": {
+    "name": "Manekina Cosmetic - \"Healing Heart\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0092",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265110": {
+    "name": "Manekin Cosmetic - \"Healing Heart\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0092",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265201": {
+    "name": "Manekina Cosmetic - \"Morning's Dawn and Dew\"",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0094",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265202": {
+    "name": "Manekin Cosmetic - \"Morning's Dawn and Dew\"",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0094",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265194": {
+    "name": "Manekina Cosmetic - \"Cerulean Tidestrike\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0098",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265195": {
+    "name": "Manekin Cosmetic - \"Cerulean Tidestrike\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0098",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265141": {
+    "name": "Manekina Cosmetic - \"Peaceful Warm Night\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0068",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265142": {
+    "name": "Manekin Cosmetic - \"Peaceful Warm Night\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0068",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265117": {
+    "name": "Manekina Cosmetic - \"Sunwarmed Malt\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0050",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265118": {
+    "name": "Manekin Cosmetic - \"Sunwarmed Malt\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0050",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265239": {
+    "name": "Manekina Cosmetic - \"Cloud Edge's Glory\"",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0100",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265240": {
+    "name": "Manekin Cosmetic - \"Cloud Edge's Glory\"",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0100",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265135": {
+    "name": "Manekina Cosmetic - \"Divine Providence\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0070",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265136": {
+    "name": "Manekin Cosmetic - \"Divine Providence\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0070",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265139": {
+    "name": "Manekina Cosmetic - \"Grand Slam Passion\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0071",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265140": {
+    "name": "Manekin Cosmetic - \"Grand Slam Passion\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0071",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265237": {
+    "name": "Manekina Cosmetic - \"Drip-Drop Ribbit\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0104",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265238": {
+    "name": "Manekin Cosmetic - \"Drip-Drop Ribbit\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0104",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265394": {
+    "name": "Manekina Cosmetic - \"Butterfly Resplendence\"",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0121",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265395": {
+    "name": "Manekin Cosmetic - \"Butterfly Resplendence\"",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0121",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265396": {
+    "name": "Manekina Cosmetic - \"Butterfly Resplendence\"",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0122",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265397": {
+    "name": "Manekin Cosmetic - \"Butterfly Resplendence\"",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0122",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265329": {
+    "name": "Manekin Cosmetic - \"Melody of Petals\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0133",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265328": {
+    "name": "Manekina Cosmetic - \"Melody of Petals\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0133",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265323": {
+    "name": "Manekin Cosmetic - \"Phantom Prowl\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0130",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265322": {
+    "name": "Manekina Cosmetic - \"Phantom Prowl\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0130",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265327": {
+    "name": "Manekin Cosmetic - \"Letter's Afterglow\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0131",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265326": {
+    "name": "Manekina Cosmetic - \"Letter's Afterglow\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0131",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  }
+}

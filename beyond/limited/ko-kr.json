@@ -1,0 +1,590 @@
+{
+  "261672": {
+    "name": "남성 코스튬·「느긋한 부츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0043",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261671": {
+    "name": "여성 코스튬·「느긋한 부츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0043",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261670": {
+    "name": "남성 코스튬·「타오르는 부츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0042",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261669": {
+    "name": "여성 코스튬·「타오르는 부츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0042",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261656": {
+    "name": "남성 코스튬·「리듬 비트 슈즈」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0013",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261655": {
+    "name": "여성 코스튬·「리듬 비트 슈즈」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0013",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261654": {
+    "name": "남성 코스튬·「로큰롤 비트 슈즈」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0012",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261653": {
+    "name": "여성 코스튬·「로큰롤 비트 슈즈」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0012",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261650": {
+    "name": "남성 코스튬·「이슬 미들 부츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0011",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261649": {
+    "name": "여성 코스튬·「이슬 미들 부츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0011",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261648": {
+    "name": "남성 코스튬·「미풍 미들 부츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0010",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261647": {
+    "name": "여성 코스튬·「미풍 미들 부츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0010",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261644": {
+    "name": "남성 코스튬·「누리 숏부츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0009",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261643": {
+    "name": "여성 코스튬·「누리 롱부츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0009",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261642": {
+    "name": "남성 코스튬·「별빛 숏부츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0008",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261641": {
+    "name": "여성 코스튬·「별빛 롱부츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0008",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260886": {
+    "name": "남성 코스튬·「느긋한 슬림핏 팬츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0043",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260885": {
+    "name": "여성 코스튬·「느긋한 미니스커트」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0043",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260884": {
+    "name": "남성 코스튬·「타오르는 슬림핏 팬츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0042",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260883": {
+    "name": "여성 코스튬·「타오르는 미니스커트」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0042",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260876": {
+    "name": "남성 코스튬·「리듬 조거 팬츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0013",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260875": {
+    "name": "여성 코스튬·「리듬 트레이닝 팬츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0013",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260874": {
+    "name": "남성 코스튬·「로큰롤 조거 팬츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0012",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260873": {
+    "name": "여성 코스튬·「로큰롤 트레이닝 팬츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0012",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260870": {
+    "name": "남성 코스튬·「이슬 조거 팬츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0011",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260869": {
+    "name": "여성 코스튬·「이슬 미디스커트」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0011",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260868": {
+    "name": "남성 코스튬·「미풍 조거 팬츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0010",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260867": {
+    "name": "여성 코스튬·「미풍 미디스커트」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0010",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260864": {
+    "name": "남성 코스튬·「누리 팬츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0009",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260863": {
+    "name": "여성 코스튬·「누리 레깅스」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0009",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260862": {
+    "name": "남성 코스튬·「별빛 팬츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0008",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260861": {
+    "name": "여성 코스튬·「별빛 레깅스」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0008",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260112": {
+    "name": "남성 코스튬·「느긋한 긴팔 셔츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0043",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260111": {
+    "name": "여성 코스튬·「느긋한 긴팔 셔츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0043",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260110": {
+    "name": "남성 코스튬·「타오르는 긴팔 셔츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0042",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260109": {
+    "name": "여성 코스튬·「타오르는 긴팔 셔츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0042",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260096": {
+    "name": "남성 코스튬·「리듬 후드」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0013",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260095": {
+    "name": "여성 코스튬·「리듬 후드」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0013",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260094": {
+    "name": "남성 코스튬·「로큰롤 후드」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0012",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260093": {
+    "name": "여성 코스튬·「로큰롤 후드」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0012",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260090": {
+    "name": "남성 코스튬·「이슬 셔츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0011",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260089": {
+    "name": "여성 코스튬·「이슬 셔츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0011",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260088": {
+    "name": "남성 코스튬·「미풍 셔츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0010",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260087": {
+    "name": "여성 코스튬·「미풍 셔츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0010",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260084": {
+    "name": "남성 코스튬·「누리 코트」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0009",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260083": {
+    "name": "여성 코스튬·「누리 원피스」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0009",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260082": {
+    "name": "남성 코스튬·「별빛 코트」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0008",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260081": {
+    "name": "여성 코스튬·「별빛 원피스」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0008",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "265063": {
+    "name": "남성 코스튬·「열정의 코트」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0113",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265062": {
+    "name": "여성 코스튬·「열정의 코트」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0113",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265061": {
+    "name": "남성 코스튬·「기분 좋은 놀이 친구」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0114",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265060": {
+    "name": "여성 코스튬·「기분 좋은 놀이 친구」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0114",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265059": {
+    "name": "남성 코스튬·「거침없는 질주」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0115",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265058": {
+    "name": "여성 코스튬·「거침없는 질주」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0115",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265145": {
+    "name": "여성 코스튬·「용의 불꽃」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0056",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265146": {
+    "name": "남성 코스튬·「용의 불꽃」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0056",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265044": {
+    "name": "여성 코스튬·「촛불 연회」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0059",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265045": {
+    "name": "남성 코스튬·「촛불 연회」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0059",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265020": {
+    "name": "여성 코스튬·「폐허의 선율」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0014",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265021": {
+    "name": "남성 코스튬·「폐허의 선율」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0014",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265028": {
+    "name": "여성 코스튬·「열정의 투사」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0030",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265029": {
+    "name": "남성 코스튬·「열정의 투사」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0030",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265040": {
+    "name": "여성 코스튬·「신비의 숲」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0051",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265041": {
+    "name": "남성 코스튬·「신비의 숲」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0051",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265119": {
+    "name": "여성 코스튬·「눈꽃 깃털」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0080",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265120": {
+    "name": "남성 코스튬·「눈꽃 깃털」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0080",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265171": {
+    "name": "여성 코스튬·「겨울 축제」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0093",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265172": {
+    "name": "남성 코스튬·「겨울 축제」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0093",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265111": {
+    "name": "여성 코스튬·「산의 후예」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0084",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265112": {
+    "name": "남성 코스튬·「산의 후예」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0084",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265109": {
+    "name": "여성 코스튬·「치유의 손길」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0092",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265110": {
+    "name": "남성 코스튬·「치유의 손길」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0092",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265201": {
+    "name": "여성 코스튬·「새해의 서광」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0094",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265202": {
+    "name": "남성 코스튬·「새해의 서광」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0094",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265194": {
+    "name": "여성 코스튬·「파도 검객」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0098",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265195": {
+    "name": "남성 코스튬·「파도 검객」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0098",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265141": {
+    "name": "여성 코스튬·「포근한 밤」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0068",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265142": {
+    "name": "남성 코스튬·「포근한 밤」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0068",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265117": {
+    "name": "여성 코스튬·「곡물의 향기」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0050",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265118": {
+    "name": "남성 코스튬·「곡물의 향기」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0050",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265239": {
+    "name": "여성 코스튬·「구름빛 영광」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0100",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265240": {
+    "name": "남성 코스튬·「구름빛 영광」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0100",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265135": {
+    "name": "여성 코스튬·「통찰의 대가」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0070",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265136": {
+    "name": "남성 코스튬·「통찰의 대가」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0070",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265139": {
+    "name": "여성 코스튬·「만루 홈런」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0071",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265140": {
+    "name": "남성 코스튬·「만루 홈런」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0071",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265237": {
+    "name": "여성 코스튬·「개굴개굴」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0104",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265238": {
+    "name": "남성 코스튬·「개굴개굴」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0104",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265394": {
+    "name": "여성 코스튬·「환상나비의 궤적」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0121",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265395": {
+    "name": "남성 코스튬·「 환상나비의 궤적 」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0121",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265396": {
+    "name": "여성 코스튬·「 환상나비의 궤적 」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0122",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265397": {
+    "name": "남성 코스튬·「 환상나비의 궤적 」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0122",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265329": {
+    "name": "남성 코스튬·「꽃말」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0133",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265328": {
+    "name": "여성 코스튬·「꽃말」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0133",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265323": {
+    "name": "남성 코스튬·「잠행자」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0130",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265322": {
+    "name": "여성 코스튬·「잠행자」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0130",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265327": {
+    "name": "남성 코스튬·「편지의 여운」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0131",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265326": {
+    "name": "여성 코스튬·「편지의 여운」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0131",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  }
+}

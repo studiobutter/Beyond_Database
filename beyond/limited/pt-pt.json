@@ -1,0 +1,338 @@
+{
+  "261672": {
+    "name": "Vestuário Masculino: Botas Dobradas Descontraídas",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0043",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261671": {
+    "name": "Vestuário Feminino: Botas Dobradas Descontraídas",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0043",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261670": {
+    "name": "Vestuário Masculino: Botas Dobradas Flamejantes",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0042",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261669": {
+    "name": "Vestuário Feminino: Botas Dobradas Flamejantes",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0042",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261656": {
+    "name": "Vestuário Masculino: Sapatos do Ritmo",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0013",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261655": {
+    "name": "Vestuário Feminino: Sapatos do Ritmo",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0013",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261654": {
+    "name": "Vestuário Masculino: Sapatos Rock 'n' Roll",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0012",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261653": {
+    "name": "Vestuário Feminino: Sapatos Rock 'n' Roll",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0012",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261650": {
+    "name": "Vestuário Masculino: Botas de Cano Médio do Orvalho",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0011",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261649": {
+    "name": "Vestuário Feminino: Botas de Cano Médio do Orvalho",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0011",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261648": {
+    "name": "Vestuário Masculino: Botas de Cano Médio da Brisa",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0010",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261647": {
+    "name": "Vestuário Feminino: Botas de Cano Médio da Brisa",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0010",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261644": {
+    "name": "Vestuário Masculino: Botas Universais",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0009",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261643": {
+    "name": "Vestuário Feminino: Botas Longas Universais",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0009",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261642": {
+    "name": "Vestuário Masculino: Botas Astrais",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0008",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "261641": {
+    "name": "Vestuário Feminino: Botas Longas Astrais",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0008",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260886": {
+    "name": "Vestuário Masculino: Calça Skinny do Baile",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0043",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260885": {
+    "name": "Vestuário Feminino: Mini-Saia Descontraída",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0043",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260884": {
+    "name": "Vestuário Masculino: Calça Skinny Flamejante",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0042",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260883": {
+    "name": "Vestuário Feminino: Mini-Saia Flamejante",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0042",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260876": {
+    "name": "Vestuário Masculino: Calças Afuniladas Rítmicas",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0013",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260875": {
+    "name": "Vestuário Feminino: Calça Rítmica Rock 'n' Roll",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0013",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260874": {
+    "name": "Vestuário Masculino: Calças Afuniladas Rock 'n' Roll",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0012",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260873": {
+    "name": "Vestuário Feminino: Calça Esportiva Rock 'n' Roll",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0012",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260870": {
+    "name": "Vestuário Masculino: Calças Afuniladas de Orvalho",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0011",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260869": {
+    "name": "Vestuário Feminino: Saia de Orvalho",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0011",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260868": {
+    "name": "Vestuário Masculino: Calças Afuniladas Refrescantes",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0010",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260867": {
+    "name": "Vestuário Feminino: Saia Refrescante",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0010",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260864": {
+    "name": "Vestuário Masculino: Calça Universal",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0009",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260863": {
+    "name": "Vestuário Feminino: Calça Legging Universal",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0009",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260862": {
+    "name": "Vestuário Masculino: Calça Astral",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0008",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260861": {
+    "name": "Vestuário Feminino: Calça Legging Astral",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0008",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260112": {
+    "name": "Vestuário Masculino: Túnica Relaxada de Mangas Longas",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0043",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260111": {
+    "name": "Vestuário Feminino: Túnica Relaxada de Mangas Longas",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0043",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260110": {
+    "name": "Vestuário Masculino: Túnica Flamejante de Mangas Longas",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0042",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260109": {
+    "name": "Vestuário Feminino: Túnica Flamejante de Mangas Longas",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0042",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260096": {
+    "name": "Vestuário Masculino: Casaco Rítmico",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0013",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260095": {
+    "name": "Vestuário Feminino: Casaco Rítmico",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0013",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260094": {
+    "name": "Vestuário Masculino: Casaco Rock 'n' Roll",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0012",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260093": {
+    "name": "Vestuário Feminino: Casaco Rock 'n' Roll",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0012",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260090": {
+    "name": "Vestuário Masculino: Camisa de Orvalho",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0011",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260089": {
+    "name": "Vestuário Feminino: Camisa de Orvalho",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0011",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260088": {
+    "name": "Vestuário Masculino: Camisa Ventilada",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0010",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260087": {
+    "name": "Vestuário Feminino: Camisa Ventilada",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0010",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260084": {
+    "name": "Vestuário Masculino: Casaco Universal",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0009",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260083": {
+    "name": "Vestuário Feminino: Vestido Universal",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0009",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260082": {
+    "name": "Vestuário Masculino: Casaco Astral",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0008",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "260081": {
+    "name": "Vestuário Feminino: Vestido Astral",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0008",
+    "type": "BEYOND_MATERIAL_COSTUME"
+  },
+  "265062": {
+    "name": "Vestuário Feminino: Ardor Combativo",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0113",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265060": {
+    "name": "Vestuário Feminino: Felicidade Conjunta",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0114",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265058": {
+    "name": "Vestuário Feminino: Presteza Excepcional",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0115",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "-4": {
+    "name": "Vestuário Feminino: Presteza Excepcional",
+    "rank": null,
+    "icon": "",
+    "type": ""
+  },
+  "-3": {
+    "name": "Vestuário Feminino: Felicidade Conjunta",
+    "rank": null,
+    "icon": "",
+    "type": ""
+  },
+  "-2": {
+    "name": "Vestuário Feminino: Ardor Combativo",
+    "rank": null,
+    "icon": "",
+    "type": ""
+  },
+  "265145": {
+    "name": "Vestuário Feminino: Diários de Guerra da Lâmina Escamosa",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0056",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "-1": {
+    "name": "Vestuário Feminino: Diários de Guerra da Lâmina Escamosa",
+    "rank": null,
+    "icon": "",
+    "type": ""
+  }
+}

@@ -1,0 +1,1886 @@
+{
+  "271640": {
+    "name": "파츠 도면·「하이컷 캔버스 스니커즈·캐러멜 브라운」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0265",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271639": {
+    "name": "파츠 도면·「하이컷 캔버스 스니커즈·카본 블랙」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0264",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271638": {
+    "name": "파츠 도면·「하이컷 캔버스 스니커즈·틸 블루」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0263",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271637": {
+    "name": "파츠 도면·「컬러 블로킹 스니커즈·체스트넛」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0245",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271636": {
+    "name": "파츠 도면·「컬러 블로킹 스니커즈·그린」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0245",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271635": {
+    "name": "파츠 도면·「컬러 블로킹 스니커즈·라이트 그레이」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0244",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271634": {
+    "name": "파츠 도면·「컬러 블로킹 스니커즈·피치 핑크」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0244",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271633": {
+    "name": "파츠 도면·「컬러 블로킹 스니커즈·마린 블루」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0243",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271632": {
+    "name": "파츠 도면·「컬러 블로킹 스니커즈·화이트 애쉬」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0243",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271631": {
+    "name": "파츠 도면·「청키힐 구두·아이보리」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0203",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271630": {
+    "name": "파츠 도면·「청키힐 구두·라이트 퍼플」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0202",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271629": {
+    "name": "파츠 도면·「청키힐 구두·블레이징 레드」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0201",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271628": {
+    "name": "파츠 도면·「청키힐 구두·잉크 블랙」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0200",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271627": {
+    "name": "파츠 도면·「레이스업 숏부츠·리드 그레이」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0199",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271626": {
+    "name": "파츠 도면·「레이스업 숏부츠·딥 브라운」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0198",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271625": {
+    "name": "파츠 도면·「레더 숏부츠·라이트 브라운」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0198",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271623": {
+    "name": "파츠 도면·「레더 숏부츠·잉크 블랙」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0197",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271622": {
+    "name": "파츠 도면·「레더 숏부츠·카본 블랙」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0196",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271621": {
+    "name": "파츠 도면·「레더 숏부츠·코코넛 브라운」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0196",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271620": {
+    "name": "파츠 도면·「캐주얼한 슬리퍼·마린 블루」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0173",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271619": {
+    "name": "파츠 도면·「캐주얼한 슬리퍼·포레스트 그린」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0172",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271618": {
+    "name": "파츠 도면·「캐주얼한 슬리퍼·화이트 애쉬」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0171",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271617": {
+    "name": "파츠 도면·「청량한 슬리퍼·마린 블루」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0119",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271616": {
+    "name": "파츠 도면·「청량한 슬리퍼·제트 그린」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0118",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271615": {
+    "name": "파츠 도면·「청량한 슬리퍼·다크 브라운」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0117",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271614": {
+    "name": "파츠 도면·「스쿨룩 남성 신발·리프 그린」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0098",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271613": {
+    "name": "파츠 도면·「스쿨룩 남성 신발·카본 블랙」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0097",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271612": {
+    "name": "파츠 도면·「스쿨룩 여성 신발·코코아 브라운」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0097",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271611": {
+    "name": "파츠 도면·「스쿨룩 남성 신발·레드 브라운」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0096",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271610": {
+    "name": "파츠 도면·「스쿨룩 여성 신발·잉크 블랙」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0096",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271609": {
+    "name": "파츠 도면·「스쿨룩 남성 신발·다크 브라운」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0095",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271608": {
+    "name": "파츠 도면·「스쿨룩 여성 신발·실버 화이트」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0095",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271607": {
+    "name": "파츠 도면·「레이스업 미들 부츠·아이보리」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0082",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271606": {
+    "name": "파츠 도면·「레이스업 미들 부츠·체스트넛」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0081",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271605": {
+    "name": "파츠 도면·「세련된 미들 부츠·모카 그레이」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0080",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271604": {
+    "name": "파츠 도면·「세련된 미들 부츠·잉크 블랙」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_P0079",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271603": {
+    "name": "파츠 도면·「깔끔한 미들 부츠·라이트 모카」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0081",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271602": {
+    "name": "파츠 도면·「깔끔한 미들 부츠·딥 브라운」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0080",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271601": {
+    "name": "파츠 도면·「깔끔한 미들 부츠·잉크 블랙」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0079",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270860": {
+    "name": "파츠 도면·「소박한 미디스커트·코코넛 브라운」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0242",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270859": {
+    "name": "파츠 도면·「소박한 미디스커트·핑크」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0241",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270858": {
+    "name": "파츠 도면·「소박한 미디스커트·마린 블루」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0240",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270857": {
+    "name": "파츠 도면·「우아한 미디스커트·리프 그린」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0239",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270856": {
+    "name": "파츠 도면·「우아한 미디스커트·잉크 블루」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0238",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270855": {
+    "name": "파츠 도면·「우아한 미디스커트·라이트 브라운」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0237",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270854": {
+    "name": "파츠 도면·「실용적인 롤업 쇼츠·말라드 그린」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0236",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270853": {
+    "name": "파츠 도면·「실용적인 롤업 쇼츠·다크 그린」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0236",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270852": {
+    "name": "파츠 도면·「실용적인 롤업 쇼츠·블레이징 레드」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0235",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270851": {
+    "name": "파츠 도면·「실용적인 롤업 쇼츠·라이트 블루」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0235",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270850": {
+    "name": "파츠 도면·「시원한 롤업 쇼츠·다크 블루」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0234",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270849": {
+    "name": "파츠 도면·「시원한 롤업 쇼츠·마린 블루」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0234",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270848": {
+    "name": "파츠 도면·「시원한 롤업 쇼츠·화이트」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0233",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270846": {
+    "name": "파츠 도면·「깔끔한 슬림핏 팬츠·라이트 그레이」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0232",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270845": {
+    "name": "파츠 도면·「깔끔한 슬림핏 팬츠·블레이징 레드」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0231",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270844": {
+    "name": "파츠 도면·「세련된 슬림핏 팬츠·다크 그레이」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0230",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270843": {
+    "name": "파츠 도면·「세련된 슬림핏 팬츠·리프 그린」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0230",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270842": {
+    "name": "파츠 도면·「세련된 슬림핏 팬츠·코코넛 브라운」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0229",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270841": {
+    "name": "파츠 도면·「세련된 슬림핏 팬츠·다크 블루」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0229",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270840": {
+    "name": "파츠 도면·「세련된 슬림핏 팬츠·잉크 블랙」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0228",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270839": {
+    "name": "파츠 도면·「세련된 슬림핏 팬츠·라이트 블루」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0228",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270836": {
+    "name": "파츠 도면·「기능성 스트레이트핏 쇼츠·인디고」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0218",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270835": {
+    "name": "파츠 도면·「기능성 스트레이트핏 쇼츠·코코넛 브라운」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0217",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270834": {
+    "name": "파츠 도면·「기능성 스트레이트핏 쇼츠·화이트」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0216",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270833": {
+    "name": "파츠 도면·「심플한 스트레이트핏 쇼츠·카키」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0215",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270832": {
+    "name": "파츠 도면·「심플한 스트레이트핏 쇼츠·잉크 블랙」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0214",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270831": {
+    "name": "파츠 도면·「심플한 스트레이트핏 쇼츠·라이트 그레이」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0213",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270830": {
+    "name": "파츠 도면·「기능성 조거 팬츠·리프 그린」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0212",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270829": {
+    "name": "파츠 도면·「기능성 조거 팬츠·코코넛 브라운」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0211",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270828": {
+    "name": "파츠 도면·「기능성 조거 팬츠·잉크 블랙」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0210",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270827": {
+    "name": "파츠 도면·「씩씩한 플리츠 미니스커트·말라드 그린」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0209",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270826": {
+    "name": "파츠 도면·「씩씩한 플리츠 미니스커트·인디고」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0208",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270825": {
+    "name": "파츠 도면·「씩씩한 플리츠 미니스커트·화이트」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0207",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270824": {
+    "name": "파츠 도면·「클래식 플리츠 미니스커트·블레이징 레드」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0206",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270823": {
+    "name": "파츠 도면·「클래식 플리츠 미니스커트·라이트 블루」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0205",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270822": {
+    "name": "파츠 도면·「클래식 플리츠 미니스커트·잉크 블루」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0204",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270821": {
+    "name": "파츠 도면·「기능성 벌룬 팬츠·리프 그린」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0195",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270820": {
+    "name": "파츠 도면·「기능성 벌룬 팬츠·매트 블랙」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0194",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270819": {
+    "name": "파츠 도면·「심플한 벌룬 팬츠·화이트」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0193",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270818": {
+    "name": "파츠 도면·「심플한 벌룬 팬츠·다크 그린」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0192",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270817": {
+    "name": "파츠 도면·「심플한 벌룬 팬츠·인디고」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0191",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270816": {
+    "name": "파츠 도면·「기능성 벌룬 쇼츠·틸」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0190",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270815": {
+    "name": "파츠 도면·「기능성 벌룬 쇼츠·카키」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0189",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270814": {
+    "name": "파츠 도면·「기능성 벌룬 쇼츠·매트 블랙」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0188",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270813": {
+    "name": "파츠 도면·「심플한 벌룬 쇼츠·라이트 그린」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0187",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270812": {
+    "name": "파츠 도면·「심플한 벌룬 쇼츠·다크 그레이」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0186",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270811": {
+    "name": "파츠 도면·「심플한 벌룬 쇼츠·마린 블루」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0185",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270810": {
+    "name": "파츠 도면·「트렌디한 부츠컷 팬츠·라이트 그레이」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0170",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270809": {
+    "name": "파츠 도면·「트렌디한 부츠컷 팬츠·인디고」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0169",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270808": {
+    "name": "파츠 도면·「심플한 부츠컷 팬츠·잉크 블랙」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0168",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270807": {
+    "name": "파츠 도면·「심플한 부츠컷 팬츠·마린 블루」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0167",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270806": {
+    "name": "파츠 도면·「가벼운 트레이닝 쇼츠·잉크 블랙」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0111",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270805": {
+    "name": "파츠 도면·「가벼운 트레이닝 쇼츠·라이트 그레이」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0110",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270804": {
+    "name": "파츠 도면·「가벼운 트레이닝 쇼츠·다크 블루」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0109",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270803": {
+    "name": "파츠 도면·「심플한 트레이닝 쇼츠·카키」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0108",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270802": {
+    "name": "파츠 도면·「심플한 트레이닝 쇼츠·그래스 그린」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0107",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270801": {
+    "name": "파츠 도면·「심플한 트레이닝 쇼츠·코코넛 브라운」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0106",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270080": {
+    "name": "파츠 도면·「심플한 정장 셔츠·화이트」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0262",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270079": {
+    "name": "파츠 도면·「심플한 정장 셔츠·마린 블루」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0261",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270078": {
+    "name": "파츠 도면·「엄숙한 정장 셔츠·다크 그레이」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0260",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270077": {
+    "name": "파츠 도면·「엄숙한 정장 셔츠·화이트 애쉬」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0259",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270076": {
+    "name": "파츠 도면·「단정한 정장 셔츠·라이트 그레이」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0258",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270075": {
+    "name": "파츠 도면·「단정한 정장 셔츠·화이트 애쉬」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0257",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270074": {
+    "name": "파츠 도면·「편안한 긴팔 후드·다크 그린」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0256",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270073": {
+    "name": "파츠 도면·「실용적인 긴팔 후드·마린 블루」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0256",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270072": {
+    "name": "파츠 도면·「편안한 긴팔 후드·다크 그레이」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0255",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270071": {
+    "name": "파츠 도면·「실용적인 긴팔 후드·틸 그린」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0255",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270070": {
+    "name": "파츠 도면·「실용적인 긴팔 후드·화이트」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0254",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270069": {
+    "name": "파츠 도면·「실용적인 긴팔 후드·로즈 핑크」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0254",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270068": {
+    "name": "파츠 도면·「실용적인 긴팔 후드·코코넛 브라운」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0253",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270067": {
+    "name": "파츠 도면·「실용적인 긴팔 후드·다크 퍼플」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0253",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270066": {
+    "name": "파츠 도면·「세련된 긴팔 트레이닝복·카키」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0252",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270065": {
+    "name": "파츠 도면·「실용적인 긴팔 후드·핑크」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0252",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270064": {
+    "name": "파츠 도면·「세련된 긴팔 트레이닝복·블레이징 레드」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0251",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270063": {
+    "name": "파츠 도면·「실용적인 긴팔 후드·그래스 그린」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0251",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270062": {
+    "name": "파츠 도면·「단정한 예복 셔츠·다크 퍼플」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0250",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270061": {
+    "name": "파츠 도면·「단정한 예복 셔츠·잉크 블랙」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0249",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270060": {
+    "name": "파츠 도면·「단정한 예복 셔츠·다크 블루」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0248",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270059": {
+    "name": "파츠 도면·「우아한 예복 셔츠·잉크 블랙」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0247",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270058": {
+    "name": "파츠 도면·「우아한 예복 셔츠·화이트」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0246",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270057": {
+    "name": "파츠 도면·「꼬마 악마 캐주얼 셔츠·블레이징 레드」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0226",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270056": {
+    "name": "파츠 도면·「꼬마 악마 캐주얼 셔츠·잉크 블랙」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0225",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270055": {
+    "name": "파츠 도면·「야자나무 캐주얼 셔츠·마린 블루」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0224",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270054": {
+    "name": "파츠 도면·「야자나무 캐주얼 셔츠·제트 그린」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0223",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270053": {
+    "name": "파츠 도면·「그라피티 반팔 후드·그레이 블루」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0222",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270052": {
+    "name": "파츠 도면·「그라피티 반팔 후드·잉크 블랙」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0221",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270051": {
+    "name": "파츠 도면·「세련된 반팔 후드·인디고」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0220",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270050": {
+    "name": "파츠 도면·「세련된 반팔 후드·라이트 오렌지」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0219",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270049": {
+    "name": "파츠 도면·「퍼프 소매 셔츠·잉크 블루」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0184",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270048": {
+    "name": "파츠 도면·「퍼프 소매 셔츠·말라드 그린」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0183",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270047": {
+    "name": "파츠 도면·「퍼프 소매 셔츠·라이트 브라운」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0182",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270046": {
+    "name": "파츠 도면·「퍼프 소매 셔츠·크림슨 레드」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0181",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270045": {
+    "name": "파츠 도면·「산뜻한 세일러 셔츠·블루 화이트」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0179",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270044": {
+    "name": "파츠 도면·「산뜻한 세일러 셔츠·마린 블루」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0178",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270043": {
+    "name": "파츠 도면·「산뜻한 세일러 셔츠·잉크 블루」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0177",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270042": {
+    "name": "파츠 도면·「단아한 세일러 셔츠·화이트 퍼플」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0180",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270041": {
+    "name": "파츠 도면·「단아한 세일러 셔츠·잉크 블랙」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0179",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270040": {
+    "name": "파츠 도면·「단아한 세일러 셔츠·블루 화이트」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0178",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270039": {
+    "name": "파츠 도면·「단아한 세일러 셔츠·잉크 블루」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0177",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270038": {
+    "name": "파츠 도면·「터틀넥 민소매 니트·마린 블루」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0176",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270037": {
+    "name": "파츠 도면·「터틀넥 민소매 니트·잉크 블랙」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0175",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270036": {
+    "name": "파츠 도면·「터틀넥 민소매 니트·아이보리」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0174",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270035": {
+    "name": "파츠 도면·「심플한 끈나시·화이트」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0166",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270034": {
+    "name": "파츠 도면·「심플한 끈나시·핑크」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0165",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270033": {
+    "name": "파츠 도면·「심플한 끈나시·마린 블루」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0164",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270032": {
+    "name": "파츠 도면·「심플한 끈나시·잉크 블랙」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0163",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270031": {
+    "name": "파츠 도면·「퍼프 소매 니트 블라우스·그래스 그린」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0105",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270030": {
+    "name": "파츠 도면·「퍼프 소매 니트 블라우스·잉크 블랙」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0104",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270029": {
+    "name": "파츠 도면·「퍼프 소매 니트 블라우스·레몬 옐로우」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0103",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270028": {
+    "name": "파츠 도면·「퍼프 소매 니트 블라우스·화이트」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0102",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270027": {
+    "name": "파츠 도면·「짧은 퍼프 소매 블라우스·라이트 그레이」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0101",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270026": {
+    "name": "파츠 도면·「짧은 퍼프 소매 블라우스·핑크」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0100",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270025": {
+    "name": "파츠 도면·「짧은 퍼프 소매 블라우스·베이지」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0099",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270024": {
+    "name": "파츠 도면·「클래식 5부 셔츠·라이트 그레이」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0094",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270023": {
+    "name": "파츠 도면·「클래식 5부 셔츠·마린 블루」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0093",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270022": {
+    "name": "파츠 도면·「클래식 5부 셔츠·화이트」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0092",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270021": {
+    "name": "파츠 도면·「클래식 5부 셔츠·라이트 그린」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0091",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270020": {
+    "name": "파츠 도면·「기능성 5부 셔츠·코코넛 브라운」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0090",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270019": {
+    "name": "파츠 도면·「기능성 5부 셔츠·잉크 블랙」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0089",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270018": {
+    "name": "파츠 도면·「달콤한 블라우스·와인 레드」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0088",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270017": {
+    "name": "파츠 도면·「달콤한 블라우스·코코넛 브라운」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0087",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270016": {
+    "name": "파츠 도면·「달콤한 블라우스·라이트 그레이」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0086",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270015": {
+    "name": "파츠 도면·「심플한 블라우스·코코넛 브라운」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0085",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270014": {
+    "name": "파츠 도면·「심플한 블라우스·라이트 그레이」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0084",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270013": {
+    "name": "파츠 도면·「심플한 블라우스·잉크 블랙」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0083",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270012": {
+    "name": "파츠 도면·「탱탱 물범 반팔 셔츠·마린 블루」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0012",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270011": {
+    "name": "파츠 도면·「우인단 반팔 셔츠·잉크 블랙」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0011",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270010": {
+    "name": "파츠 도면·「누룽지 반팔 셔츠·오리지널」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0010",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270009": {
+    "name": "파츠 도면·「슬라임 반팔 셔츠·스카이 블루」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0009",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270008": {
+    "name": "파츠 도면·「바람수정 나비 반팔 셔츠·잉크 블랙」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0008",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270007": {
+    "name": "파츠 도면·「댄스 배틀 반팔 셔츠·블레이징 레드」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0007",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270006": {
+    "name": "파츠 도면·「아란나라 반팔 셔츠·그래스 그린」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0006",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270005": {
+    "name": "파츠 도면·「탱탱 물범 반팔 셔츠·다크 그레이」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0005",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270004": {
+    "name": "파츠 도면·「발톱 반팔 셔츠·잉크 블랙」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0004",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270003": {
+    "name": "파츠 도면·「아란나라 반팔 셔츠·화이트」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0003",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270002": {
+    "name": "파츠 도면·「뭇별 반팔 셔츠·라이트 그레이」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Top_P0002",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270001": {
+    "name": "파츠 도면·「톱니 반팔 셔츠·마린 블루」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Top_P0001",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274200": {
+    "name": "파츠 도면·「장미의 향기 장갑」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_ArmAcc_S0053",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274199": {
+    "name": "파츠 도면·「장미의 향기 귀걸이」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Earwear_S0053",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274196": {
+    "name": "파츠 도면·「풀빛 여름 축제 숏삭스」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_LegAcc_S0040",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274195": {
+    "name": "파츠 도면·「풀빛 여름 축제 머리띠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Headwear_S0040",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274193": {
+    "name": "파츠 도면·「풀빛 여름 축제 머리 장식」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Headwear_S0040",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274192": {
+    "name": "파츠 도면·「버섯의 향기 장갑」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_ArmAcc_S0052",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274191": {
+    "name": "파츠 도면·「버섯의 향기 귀걸이」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Earwear_S0052",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274189": {
+    "name": "파츠 도면·「귤빛 여름 축제 숏삭스」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_LegAcc_S0039",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274188": {
+    "name": "파츠 도면·「귤빛 여름 축제 머리띠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Headwear_S0039",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274186": {
+    "name": "파츠 도면·「귤빛 여름 축제 머리 장식」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Headwear_S0039",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274173": {
+    "name": "파츠 도면·「과감한 비행 장갑」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_ArmAcc_S0045",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274172": {
+    "name": "파츠 도면·「과감한 비행 고글」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Headwear_S0045",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274175": {
+    "name": "파츠 도면·「신중한 비행 장갑」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_ArmAcc_S0044",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274174": {
+    "name": "파츠 도면·「신중한 비행 고글」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Headwear_S0044",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274166": {
+    "name": "파츠 도면·「느긋한 넓은 챙 모자」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Headwear_S0043",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274164": {
+    "name": "파츠 도면·「타오르는 넓은 챙 모자」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Headwear_S0042",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274162": {
+    "name": "파츠 도면·「주홍빛 미들 삭스」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_LegAcc_S0037",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274161": {
+    "name": "파츠 도면·「물빛 미들 삭스」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_LegAcc_S0036",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274160": {
+    "name": "파츠 도면·「성난 파도 세일러 모자」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Headwear_S0032",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274159": {
+    "name": "파츠 도면·「성난 파도 세일러 삭스」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_LegAcc_S0032",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274154": {
+    "name": "파츠 도면·「악장 팔찌」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_ArmAcc_S0026",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274153": {
+    "name": "파츠 도면·「악장 월계관」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Headwear_S0026",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274152": {
+    "name": "파츠 도면·「악장 목걸이」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Neckwear_S0026",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273905": {
+    "name": "파츠 도면·「입술 밑 점」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_FacialMakeup_P0072",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273903": {
+    "name": "파츠 도면·「눈 밑 점」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_FacialMakeup_P0026",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273901": {
+    "name": "파츠 도면·「주근깨」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_FacialMakeup_P0025",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273704": {
+    "name": "파츠 도면·「양피지 두루마리·블렌딩」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_EyeShadow_P0026",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273702": {
+    "name": "파츠 도면·「양피지 두루마리·플랫」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_EyeShadow_P0025",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273603": {
+    "name": "파츠 도면·「복숭아 푸딩」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Lipstick_P0026",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273601": {
+    "name": "파츠 도면·「소박한 편지」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Lipstick_P0025",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273211": {
+    "name": "파츠 도면·「베리 잼」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Pupil_P0062",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273209": {
+    "name": "파츠 도면·「푸른 이슬」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Pupil_P0061",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273207": {
+    "name": "파츠 도면·「민트 바닐라」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Pupil_P0060",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273205": {
+    "name": "파츠 도면·「레몬의 약속」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Pupil_P0059",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273203": {
+    "name": "파츠 도면·「오렌지 드림」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Pupil_P0058",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "273201": {
+    "name": "파츠 도면·「베리 열매」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Pupil_P0057",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272918": {
+    "name": "파츠 도면·「아침꽃의 편지」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Face_P0071",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272916": {
+    "name": "파츠 도면·「황혼 나비의 안식처」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Face_P0070",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272914": {
+    "name": "파츠 도면·「맑은 햇살」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Face_P0069",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272511": {
+    "name": "파츠 도면·「휘날리는 깃발·블론드」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0038",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272509": {
+    "name": "파츠 도면·「휘날리는 깃발·브라운」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0037",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272507": {
+    "name": "파츠 도면·「휘날리는 깃발·블랙」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0036",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272505": {
+    "name": "파츠 도면·「초승달·블론드」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0035",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272503": {
+    "name": "파츠 도면·「초승달·브라운」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0034",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272501": {
+    "name": "파츠 도면·「초승달·블랙」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0033",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272410": {
+    "name": "파츠 도면·「머쉬룸 숏헤어」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Hair_P0116",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272409": {
+    "name": "파츠 도면·「롱 일자뱅」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Hair_P0116",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272408": {
+    "name": "파츠 도면·「풍성한 아프로펌」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Hair_P0115",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272407": {
+    "name": "파츠 도면·「숏 트윈테일」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Hair_P0115",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272406": {
+    "name": "파츠 도면·「사이드 파트 숏헤어」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Hair_P0114",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272405": {
+    "name": "파츠 도면·「아담한 포니테일」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Hair_P0114",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272404": {
+    "name": "파츠 도면·「고슴도치 숏헤어」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Hair_P0113",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272403": {
+    "name": "파츠 도면·「카라멜 트윈테일」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Hair_P0113",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272402": {
+    "name": "파츠 도면·「침착한 숏헤어」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Hair_P0112",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272401": {
+    "name": "파츠 도면·「차분한 숏헤어」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Hair_P0112",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271756": {
+    "name": "파츠 도면·「장미의 향기 구두」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0053",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271754": {
+    "name": "파츠 도면·「풀빛 여름 축제 나막신」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0040",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271752": {
+    "name": "파츠 도면·「버섯의 향기 구두」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0052",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271750": {
+    "name": "파츠 도면·「귤빛 여름 축제 나막신」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0039",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271747": {
+    "name": "파츠 도면·「옥빛 난초 신발」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0078",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271745": {
+    "name": "파츠 도면·「보랏빛 난초 신발」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0079",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271676": {
+    "name": "파츠 도면·「신중한 비행 롱부츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0044",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271674": {
+    "name": "파츠 도면·「과감한 비행 롱부츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0045",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271668": {
+    "name": "파츠 도면·「주홍빛 비단신」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0037",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271666": {
+    "name": "파츠 도면·「물빛 비단신」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0036",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271664": {
+    "name": "파츠 도면·「성난 파도 구두」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0032",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271660": {
+    "name": "파츠 도면·「악장 샌들」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0026",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271658": {
+    "name": "파츠 도면·「댄스 비트 슈즈」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0065",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271652": {
+    "name": "파츠 도면·「새싹 미들 부츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0064",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271646": {
+    "name": "파츠 도면·「적막 숏부츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0063",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271645": {
+    "name": "파츠 도면·「적막 롱부츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0063",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270982": {
+    "name": "파츠 도면·「장미의 향기 팬츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0053",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270981": {
+    "name": "파츠 도면·「장미의 향기 미니스커트」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0053",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270980": {
+    "name": "파츠 도면·「풀빛 여름 축제 쇼츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0040",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270979": {
+    "name": "파츠 도면·「버섯의 향기 팬츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0052",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270978": {
+    "name": "파츠 도면·「옥빛 난초 롱스커트」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0078",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270977": {
+    "name": "파츠 도면·「버섯의 향기 미니스커트」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0052",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270976": {
+    "name": "파츠 도면·「옥빛 난초 팬츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0078",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270975": {
+    "name": "파츠 도면·「귤빛 여름 축제 쇼츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0039",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270974": {
+    "name": "파츠 도면·「보랏빛 난초 팬츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0079",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270973": {
+    "name": "파츠 도면·「보랏빛 난초 롱스커트」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0079",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270890": {
+    "name": "파츠 도면·「신중한 비행 쇼츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0044",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270889": {
+    "name": "파츠 도면·「신중한 비행 미니스커트」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0044",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270888": {
+    "name": "파츠 도면·「과감한 비행 쇼츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0045",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270887": {
+    "name": "파츠 도면·「과감한 비행 미니스커트」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0045",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270882": {
+    "name": "파츠 도면·「먹색 조거 팬츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0037",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270880": {
+    "name": "파츠 도면·「반암 조거 팬츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0036",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270878": {
+    "name": "파츠 도면·「댄스 조거 팬츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0065",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270877": {
+    "name": "파츠 도면·「댄스 트레이닝 팬츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0065",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270872": {
+    "name": "파츠 도면·「새싹 조거 팬츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0064",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270871": {
+    "name": "파츠 도면·「새싹 미디스커트」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0064",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270866": {
+    "name": "파츠 도면·「적막 팬츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_S0063",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270865": {
+    "name": "파츠 도면·「적막 레깅스」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_S0063",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270236": {
+    "name": "파츠 도면·「장미의 향기 크롭 셔츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0053",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270233": {
+    "name": "파츠 도면·「풀빛 여름 축제 상의」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0040",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270232": {
+    "name": "파츠 도면·「버섯의 향기 크롭 셔츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0052",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270230": {
+    "name": "파츠 도면·「옥빛 난초 상의」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0078",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270229": {
+    "name": "파츠 도면·「귤빛 여름 축제 상의」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0039",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270225": {
+    "name": "파츠 도면·「보랏빛 난초 상의」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0079",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270115": {
+    "name": "파츠 도면·「신중한 비행 제복」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0044",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270114": {
+    "name": "파츠 도면·「과감한 비행 제복」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0045",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270108": {
+    "name": "파츠 도면·「주홍빛 긴팔 셔츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0037",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270107": {
+    "name": "파츠 도면·「주홍빛 원피스」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0037",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270106": {
+    "name": "파츠 도면·「물빛 긴팔 셔츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0036",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270105": {
+    "name": "파츠 도면·「물빛 원피스」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0036",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270104": {
+    "name": "파츠 도면·「성난 파도 세일러복」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0032",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270100": {
+    "name": "파츠 도면·「악장 로브」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0026",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270098": {
+    "name": "파츠 도면·「댄스 후드」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0065",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270092": {
+    "name": "파츠 도면·「새싹 셔츠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0064",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270086": {
+    "name": "파츠 도면·「적막 코트」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0063",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270085": {
+    "name": "파츠 도면·「적막 원피스」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0063",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "250430": {
+    "name": "억지웃음",
+    "rank": 3,
+    "icon": "UI_UGC_Emoji_Rare_11",
+    "type": "BEYOND_MATERIAL_EMOJI"
+  },
+  "250429": {
+    "name": "구석 자리",
+    "rank": 3,
+    "icon": "UI_UGC_Emoji_Rare_10",
+    "type": "BEYOND_MATERIAL_EMOJI"
+  },
+  "250428": {
+    "name": "악수",
+    "rank": 3,
+    "icon": "UI_UGC_Emoji_Rare_09",
+    "type": "BEYOND_MATERIAL_EMOJI"
+  },
+  "250427": {
+    "name": "차 따르기",
+    "rank": 3,
+    "icon": "UI_UGC_Emoji_Rare_07",
+    "type": "BEYOND_MATERIAL_EMOJI"
+  },
+  "250426": {
+    "name": "티타임",
+    "rank": 3,
+    "icon": "UI_UGC_Emoji_Rare_06",
+    "type": "BEYOND_MATERIAL_EMOJI"
+  },
+  "250425": {
+    "name": "억울",
+    "rank": 3,
+    "icon": "UI_UGC_Emoji_Rare_05",
+    "type": "BEYOND_MATERIAL_EMOJI"
+  },
+  "250424": {
+    "name": "손 흔들기",
+    "rank": 3,
+    "icon": "UI_UGC_Emoji_Rare_04",
+    "type": "BEYOND_MATERIAL_EMOJI"
+  },
+  "250423": {
+    "name": "땀이 주륵",
+    "rank": 3,
+    "icon": "UI_UGC_Emoji_Rare_03",
+    "type": "BEYOND_MATERIAL_EMOJI"
+  },
+  "250440": {
+    "name": "분노",
+    "rank": 3,
+    "icon": "UI_UGC_Emoji_SuperRare_11",
+    "type": "BEYOND_MATERIAL_EMOJI"
+  },
+  "250421": {
+    "name": "칭찬",
+    "rank": 3,
+    "icon": "UI_UGC_Emoji_Rare_01",
+    "type": "BEYOND_MATERIAL_EMOJI"
+  },
+  "250137": {
+    "name": "무겁게 끄덕이기",
+    "rank": 3,
+    "icon": "UI_UGC_ActionIcon_UNod02",
+    "type": "BEYOND_MATERIAL_POSE"
+  },
+  "250135": {
+    "name": "땀 닦기",
+    "rank": 3,
+    "icon": "UI_UGC_ActionIcon_UNervous01",
+    "type": "BEYOND_MATERIAL_POSE"
+  },
+  "250133": {
+    "name": "좋아함",
+    "rank": 3,
+    "icon": "UI_UGC_ActionIcon_ULike01",
+    "type": "BEYOND_MATERIAL_POSE"
+  },
+  "250129": {
+    "name": "두드리기",
+    "rank": 3,
+    "icon": "UI_UGC_ActionIcon_UKnock01",
+    "type": "BEYOND_MATERIAL_POSE"
+  },
+  "250121": {
+    "name": "손 흔들기",
+    "rank": 3,
+    "icon": "UI_UGC_ActionIcon_UHandWave01",
+    "type": "BEYOND_MATERIAL_POSE"
+  },
+  "250114": {
+    "name": "추위",
+    "rank": 3,
+    "icon": "UI_UGC_ActionIcon_UCold01",
+    "type": "BEYOND_MATERIAL_POSE"
+  },
+  "250110": {
+    "name": "양손 응원",
+    "rank": 3,
+    "icon": "UI_UGC_ActionIcon_UCheer01",
+    "type": "BEYOND_MATERIAL_POSE"
+  },
+  "250108": {
+    "name": "인사하기",
+    "rank": 3,
+    "icon": "UI_UGC_ActionIcon_UBow01",
+    "type": "BEYOND_MATERIAL_POSE"
+  },
+  "250103": {
+    "name": "양손 얹기",
+    "rank": 3,
+    "icon": "UI_UGC_ActionIcon_UAkimbo02",
+    "type": "BEYOND_MATERIAL_POSE"
+  },
+  "250101": {
+    "name": "이쪽이야",
+    "rank": 3,
+    "icon": "UI_UGC_ActionIcon_UAggression01",
+    "type": "BEYOND_MATERIAL_POSE"
+  },
+  "275250": {
+    "name": "세트 도면·「환상의 색채」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Optional_Suit_S0112",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "275235": {
+    "name": "세트 도면·「딸기 케이크」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Optional_Suit_S0106",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "275143": {
+    "name": "세트 도면·「비행의 꿈」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Optional_Suit_S0073",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "275115": {
+    "name": "세트 도면·「단풍놀이」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Optional_Suit_S0038",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "275024": {
+    "name": "세트 도면·「지식의 샛별」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Optional_Suit_S0025",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "275018": {
+    "name": "세트 도면·「뭇별 비콘」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Optional_Suit_S0007",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "275016": {
+    "name": "세트 도면·「거리의 예술가」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Optional_Suit_S0006",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  }
+}
