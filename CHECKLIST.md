@@ -15,12 +15,12 @@
 
 ## Limited
 
-  - [x] English (Updated)
-  - [x] Japanese (Updated)
-  - [x] Korean (Updated)
-  - [x] Chinese (Traditional) (Pending Translation)
-  - [x] Chinese (Simplified) (Updated)
-  - [x] Vietnamese (Pending Translation)
+  - [x] English
+  - [x] Japanese
+  - [x] Korean
+  - [x] Chinese (Traditional)
+  - [x] Chinese (Simplified)
+  - [x] Vietnamese
   - [ ] Portuguese
   - [ ] Spanish
 
