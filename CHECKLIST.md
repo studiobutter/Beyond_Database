@@ -17,8 +17,8 @@
 
   - [x] English (Updated)
   - [x] Japanese (Updated)
-  - [x] Korean (Pending Translation)
-  - [x] Chinese (Traditional) (Updated)
+  - [x] Korean (Updated)
+  - [x] Chinese (Traditional) (Pending Translation)
   - [x] Chinese (Simplified) (Updated)
   - [x] Vietnamese (Pending Translation)
   - [ ] Portuguese
