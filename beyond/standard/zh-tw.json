@@ -95,6 +95,12 @@
     "icon": "UI_Beyd_Avatar_Girl_Shoe_P0198",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
+  "271624": {
+    "name": "部件型錄·「皮革短靴·淺棕」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_P0197",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
   "271623": {
     "name": "部件型錄·「皮革短靴·墨黑」",
     "rank": 2,
@@ -311,6 +317,12 @@
     "icon": "UI_Beyd_Avatar_Boy_Bottom_P0233",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
+  "270847": {
+    "name": "部件型錄·「沁涼翻邊短褲·純白」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0233",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
   "270846": {
     "name": "部件型錄·「俐落緊身長褲·淺灰」",
     "rank": 2,
@@ -357,6 +369,18 @@
     "name": "部件型錄·「幹練緊身長褲·淺藍」",
     "rank": 2,
     "icon": "UI_Beyd_Avatar_Girl_Bottom_P0228",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270838": {
+    "name": "部件型錄·「利落緊身長褲·深藍」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Boy_Bottom_P0227",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270837": {
+    "name": "部件型錄·「利落緊身長褲·深灰」",
+    "rank": 2,
+    "icon": "UI_Beyd_Avatar_Girl_Bottom_P0227",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
   "270836": {
@@ -1067,6 +1091,18 @@
     "icon": "UI_Beyd_Avatar_Boy_Earwear_S0053",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
+  "274198": {
+    "name": "部件型錄·「節慶馨香手套」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_ArmAcc_S0053",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274197": {
+    "name": "部件型錄·「節慶馨香耳飾」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Earwear_S0053",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
   "274196": {
     "name": "部件型錄·「清葵短襪」",
     "rank": 3,
@@ -1077,6 +1113,12 @@
     "name": "部件型錄·「清葵髮帶」",
     "rank": 3,
     "icon": "UI_Beyd_Avatar_Boy_Headwear_S0040",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274194": {
+    "name": "部件型錄·「清葵短襪」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_LegAcc_S0040",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
   "274193": {
@@ -1097,6 +1139,12 @@
     "icon": "UI_Beyd_Avatar_Boy_Earwear_S0052",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
+  "274190": {
+    "name": "部件型錄·「菌学家手套」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_ArmAcc_S0052",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
   "274189": {
     "name": "部件型錄·「蜜柑短襪」",
     "rank": 3,
@@ -1109,22 +1157,16 @@
     "icon": "UI_Beyd_Avatar_Boy_Headwear_S0039",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
+  "274187": {
+    "name": "部件型錄·「蜜柑短襪」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_LegAcc_S0039",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
   "274186": {
     "name": "部件型錄·「蜜柑髮飾」",
     "rank": 3,
     "icon": "UI_Beyd_Avatar_Girl_Headwear_S0039",
-    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
-  },
-  "274173": {
-    "name": "部件型錄·「豪放翔翱手套」",
-    "rank": 3,
-    "icon": "UI_Beyd_Avatar_Girl_ArmAcc_S0045",
-    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
-  },
-  "274172": {
-    "name": "部件型錄·「豪放翔翱風鏡」",
-    "rank": 3,
-    "icon": "UI_Beyd_Avatar_Girl_Headwear_S0045",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
   "274175": {
@@ -1139,6 +1181,18 @@
     "icon": "UI_Beyd_Avatar_Girl_Headwear_S0044",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
+  "274173": {
+    "name": "部件型錄·「豪放翔翱手套」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_ArmAcc_S0045",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274172": {
+    "name": "部件型錄·「豪放翔翱風鏡」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Headwear_S0045",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
   "274166": {
     "name": "部件型錄·「悠遊寬簷帽」",
     "rank": 3,
@@ -1149,6 +1203,12 @@
     "name": "部件型錄·「熾烈寬簷帽」",
     "rank": 3,
     "icon": "UI_Beyd_Avatar_Boy_Headwear_S0042",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274163": {
+    "name": "部件型錄·「熾烈寬簷帽」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Headwear_S0042",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
   "274162": {
@@ -1175,6 +1235,12 @@
     "icon": "UI_Beyd_Avatar_Girl_LegAcc_S0032",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
+  "274158": {
+    "name": "部件型錄·「怒濤水手帽」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Headwear_S0032",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
   "274154": {
     "name": "部件型錄·「樂章手飾」",
     "rank": 3,
@@ -1191,6 +1257,12 @@
     "name": "部件型錄·「樂章頸飾」",
     "rank": 3,
     "icon": "UI_Beyd_Avatar_Girl_Neckwear_S0026",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274151": {
+    "name": "部件型錄·「樂章桂冠」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Headwear_S0026",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
   "273905": {
@@ -1277,16 +1349,34 @@
     "icon": "UI_Beyd_Avatar_Boy_Face_P0071",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
+  "272917": {
+    "name": "部件型錄·「朝花來信」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Face_P0071",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
   "272916": {
     "name": "部件型錄·「暮景蝶棲」",
     "rank": 3,
     "icon": "UI_Beyd_Avatar_Boy_Face_P0070",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
+  "272915": {
+    "name": "部件型錄·「暮景蝶棲」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Face_P0070",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
   "272914": {
     "name": "部件型錄·「晴日暖陽」",
     "rank": 3,
     "icon": "UI_Beyd_Avatar_Boy_Face_P0069",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "272913": {
+    "name": "部件型錄·「晴日暖陽」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Face_P0069",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
   "272511": {
@@ -1391,10 +1481,22 @@
     "icon": "UI_Beyd_Avatar_Boy_Shoe_S0053",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
+  "271755": {
+    "name": "部件型錄·「節慶馨香皮鞋」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0053",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
   "271754": {
     "name": "部件型錄·「清葵木屐」",
     "rank": 3,
     "icon": "UI_Beyd_Avatar_Boy_Shoe_S0040",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271753": {
+    "name": "部件型錄·「清葵木屐」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0040",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
   "271752": {
@@ -1403,10 +1505,28 @@
     "icon": "UI_Beyd_Avatar_Boy_Shoe_S0052",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
+  "271751": {
+    "name": "部件型錄·「林菇研者皮鞋」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0052",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
   "271750": {
     "name": "部件型錄·「蜜柑木屐」",
     "rank": 3,
     "icon": "UI_Beyd_Avatar_Boy_Shoe_S0039",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271749": {
+    "name": "部件型錄·「蕙蘭布鞋」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0078",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271748": {
+    "name": "部件型錄·「蜜柑木屐」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0039",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
   "271747": {
@@ -1427,10 +1547,22 @@
     "icon": "UI_Beyd_Avatar_Boy_Shoe_S0044",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
+  "271675": {
+    "name": "部件型錄·「謹思翔翱長靴」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0044",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
   "271674": {
     "name": "部件型錄·「豪放翔翱長靴」",
     "rank": 3,
     "icon": "UI_Beyd_Avatar_Boy_Shoe_S0045",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271673": {
+    "name": "部件型錄·「豪放翔翱長靴」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0045",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
   "271668": {
@@ -1439,10 +1571,22 @@
     "icon": "UI_Beyd_Avatar_Boy_Shoe_S0037",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
+  "271667": {
+    "name": "部件型錄·「朱色錦靴」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0037",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
   "271666": {
     "name": "部件型錄·「清粼錦靴」",
     "rank": 3,
     "icon": "UI_Beyd_Avatar_Boy_Shoe_S0036",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271665": {
+    "name": "部件型錄·「清粼錦靴」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0036",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
   "271664": {
@@ -1451,10 +1595,22 @@
     "icon": "UI_Beyd_Avatar_Boy_Shoe_S0032",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
+  "271663": {
+    "name": "部件型錄·「怒濤皮鞋」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0032",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
   "271660": {
     "name": "部件型錄·「樂章涼鞋」",
     "rank": 3,
     "icon": "UI_Beyd_Avatar_Boy_Shoe_S0026",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271659": {
+    "name": "部件型錄·「樂章涼鞋」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0026",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
   "271658": {
@@ -1463,10 +1619,22 @@
     "icon": "UI_Beyd_Avatar_Boy_Shoe_S0065",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
+  "271657": {
+    "name": "部件型錄·「勁舞節拍鞋」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0065",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
   "271652": {
     "name": "部件型錄·「新葉中筒靴」",
     "rank": 3,
     "icon": "UI_Beyd_Avatar_Boy_Shoe_S0064",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271651": {
+    "name": "部件型錄·「新葉中筒靴」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Shoe_S0064",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
   "271646": {
@@ -1619,6 +1787,18 @@
     "icon": "UI_Beyd_Avatar_Boy_Top_S0053",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
+  "270235": {
+    "name": "部件型錄·「節慶馨香短衫」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0053",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270234": {
+    "name": "部件型錄·「陽光花苞上裝」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0040",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
   "270233": {
     "name": "部件型錄·「清葵上裝」",
     "rank": 3,
@@ -1629,6 +1809,12 @@
     "name": "部件型錄·「林菇研者短衫」",
     "rank": 3,
     "icon": "UI_Beyd_Avatar_Boy_Top_S0052",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270231": {
+    "name": "部件型錄·「菌菇研究者短衫」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0052",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
   "270230": {
@@ -1643,10 +1829,34 @@
     "icon": "UI_Beyd_Avatar_Boy_Top_S0039",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
+  "270228": {
+    "name": "部件型錄·「贵族兰花简易服装」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0078",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270227": {
+    "name": "部件型錄·「甜美柑橘上装」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0039",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270226": {
+    "name": "部件型錄·「静谧兰花简易服装」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0079",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
   "270225": {
     "name": "部件型錄·「素心蘭布衣」",
     "rank": 3,
     "icon": "UI_Beyd_Avatar_Girl_Top_S0079",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270116": {
+    "name": "部件型錄·「翱翔沉思制服」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Top_S0044",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
   "270115": {
@@ -1659,6 +1869,12 @@
     "name": "部件型錄·「豪放翔翱制服」",
     "rank": 3,
     "icon": "UI_Beyd_Avatar_Boy_Top_S0045",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270113": {
+    "name": "部件型錄·「翱翔活力制服」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0045",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
   "270108": {
@@ -1691,10 +1907,22 @@
     "icon": "UI_Beyd_Avatar_Boy_Top_S0032",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
+  "270103": {
+    "name": "部件型錄·「怒濤水手裝」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0032",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
   "270100": {
     "name": "部件型錄·「樂章長袍」",
     "rank": 3,
     "icon": "UI_Beyd_Avatar_Boy_Top_S0026",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270099": {
+    "name": "部件型錄·「樂章長袍」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0026",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
   "270098": {
@@ -1703,10 +1931,22 @@
     "icon": "UI_Beyd_Avatar_Boy_Top_S0065",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
+  "270097": {
+    "name": "部件型錄·「勁舞連帽衫」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0065",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
   "270092": {
     "name": "部件型錄·「新葉襯衫」",
     "rank": 3,
     "icon": "UI_Beyd_Avatar_Boy_Top_S0064",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "270091": {
+    "name": "部件型錄·「新葉襯衫」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Top_S0064",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
   "270086": {
@@ -1881,6 +2121,12 @@
     "name": "套裝型錄·「異想街區」",
     "rank": 4,
     "icon": "UI_Beyd_Avatar_Optional_Suit_S0006",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "275352": {
+    "name": "套裝型錄·「墨染新籜」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Optional_Suit_S0144",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   }
 }

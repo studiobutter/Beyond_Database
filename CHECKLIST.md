@@ -8,10 +8,10 @@
   - [x] Chinese (Traditional)
   - [x] Chinese (Simplified)
   - [x] Vietnamese
-  - [x] Portuguese
-  - [x] Spanish
+  - [ ] Portuguese
+  - [ ] Spanish
 
-*Version: 6.5.0* (Pending Update)
+*Version: 6.6.0* (Pending Update)
 
 ## Limited
 
@@ -25,3 +25,5 @@
   - [ ] Spanish
 
 *Version: 6.6.0*
+
+Looking for maintainer for this database, please contact me through email if you want to help maintain the database. Email: [butter@studiobutter.io.vn](mailto:butter@studiobutter.io.vn)
