@@ -11,7 +11,7 @@
   - [ ] Portuguese
   - [ ] Spanish
 
-*Version: 6.6.0* (Pending Update)
+*Version: 6.6.0*
 
 ## Limited
 
