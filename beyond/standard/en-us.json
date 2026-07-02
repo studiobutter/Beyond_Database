@@ -1175,6 +1175,18 @@
     "icon": "UI_Beyd_Avatar_Girl_Earwear_S0052",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
+  "274184": {
+    "name": "Component Catalog - \"Soaring Vigor Gloves\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_ArmAcc_S0045",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274183": {
+    "name": "Component Catalog - \"Soaring Vigor Goggles\"",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Headwear_S0045",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
   "274177": {
     "name": "Component Catalog - \"Soaring Contemplation Gloves\"",
     "rank": 3,
@@ -2157,6 +2169,12 @@
     "name": "Set Catalog - \"Ink-Tinged Sprout\"",
     "rank": 4,
     "icon": "UI_Beyd_Avatar_Optional_Suit_S0144",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "275348": {
+    "name": "Set Catalog - \"Salted Lemon Fizz\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Optional_Suit_S0016",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   }
 }

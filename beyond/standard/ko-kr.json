@@ -1158,7 +1158,7 @@
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
   "274187": {
-    "name": "파츠 도면·「Sweet Citrus Socks」",
+    "name": "파츠 도면·「귤빛 여름 축제 숏삭스」",
     "rank": 3,
     "icon": "UI_Beyd_Avatar_Girl_LegAcc_S0039",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
@@ -1169,16 +1169,34 @@
     "icon": "UI_Beyd_Avatar_Girl_Headwear_S0039",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
-  "274173": {
-    "name": "파츠 도면·「과감한 비행 장갑」",
+  "274185": {
+    "name": "파츠 도면·「버섯의 향기 귀걸이」",
     "rank": 3,
-    "icon": "UI_Beyd_Avatar_Girl_ArmAcc_S0045",
+    "icon": "UI_Beyd_Avatar_Girl_Earwear_S0052",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
-  "274172": {
+  "274184": {
+    "name": "파츠 도면·「과감한 비행 장갑」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_ArmAcc_S0045",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274183": {
     "name": "파츠 도면·「과감한 비행 고글」",
     "rank": 3,
-    "icon": "UI_Beyd_Avatar_Girl_Headwear_S0045",
+    "icon": "UI_Beyd_Avatar_Boy_Headwear_S0045",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274177": {
+    "name": "파츠 도면·「과감한 비행 장갑」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_ArmAcc_S0044",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274176": {
+    "name": "파츠 도면·「과감한 비행 고글」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Headwear_S0044",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
   "274175": {
@@ -1191,6 +1209,18 @@
     "name": "파츠 도면·「신중한 비행 고글」",
     "rank": 3,
     "icon": "UI_Beyd_Avatar_Girl_Headwear_S0044",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274173": {
+    "name": "파츠 도면·「과감한 비행 장갑」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_ArmAcc_S0045",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274172": {
+    "name": "파츠 도면·「과감한 비행 고글」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Headwear_S0045",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
   "274166": {
@@ -2139,6 +2169,12 @@
     "name": "세트 도면·「묵빛 죽림」",
     "rank": 4,
     "icon": "UI_Beyd_Avatar_Optional_Suit_S0144",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "275348": {
+    "name": "세트 도면·「솔티 레모네이드」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Optional_Suit_S0016",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   }
 }

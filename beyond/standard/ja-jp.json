@@ -1169,16 +1169,34 @@
     "icon": "UI_Beyd_Avatar_Girl_Headwear_S0039",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
-  "274173": {
-    "name": "アイテムサンプル-「飛翔のグローブ」",
+  "274185": {
+    "name": "アイテムサンプル-「キノコ研究者のイヤリング」",
     "rank": 3,
-    "icon": "UI_Beyd_Avatar_Girl_ArmAcc_S0045",
+    "icon": "UI_Beyd_Avatar_Girl_Earwear_S0052",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
-  "274172": {
+  "274184": {
+    "name": "アイテムサンプル-「飛翔の手袋」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_ArmAcc_S0045",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274183": {
     "name": "アイテムサンプル-「飛翔のゴーグル」",
     "rank": 3,
-    "icon": "UI_Beyd_Avatar_Girl_Headwear_S0045",
+    "icon": "UI_Beyd_Avatar_Boy_Headwear_S0045",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274177": {
+    "name": "アイテムサンプル-「飛翔の手袋」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_ArmAcc_S0044",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274176": {
+    "name": "アイテムサンプル-「飛翔のゴーグル」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Headwear_S0044",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
   "274175": {
@@ -1191,6 +1209,18 @@
     "name": "アイテムサンプル-「滑空のゴーグル」",
     "rank": 3,
     "icon": "UI_Beyd_Avatar_Girl_Headwear_S0044",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274173": {
+    "name": "アイテムサンプル-「飛翔のグローブ」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_ArmAcc_S0045",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274172": {
+    "name": "アイテムサンプル-「飛翔のゴーグル」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Headwear_S0045",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
   "274166": {
@@ -2139,6 +2169,12 @@
     "name": "セットサンプル-「墨染めの新筍」",
     "rank": 4,
     "icon": "UI_Beyd_Avatar_Optional_Suit_S0144",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "275348": {
+    "name": "セットサンプル-「爽快レモネード」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Optional_Suit_S0016",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   }
 }

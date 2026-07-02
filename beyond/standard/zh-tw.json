@@ -1169,6 +1169,36 @@
     "icon": "UI_Beyd_Avatar_Girl_Headwear_S0039",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
+  "274185": {
+    "name": "部件型錄·「菌学家耳飾」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Earwear_S0052",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274184": {
+    "name": "部件型錄·「豪放翔翱手套」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_ArmAcc_S0045",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274183": {
+    "name": "部件型錄·「豪放翔翱風鏡」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Headwear_S0045",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274177": {
+    "name": "部件型錄·「翱翔沉思手套」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_ArmAcc_S0044",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274176": {
+    "name": "部件型錄·「翱翔沉思風鏡」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Headwear_S0044",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
   "274175": {
     "name": "部件型錄·「謹思翔翱手套」",
     "rank": 3,
@@ -1197,6 +1227,12 @@
     "name": "部件型錄·「悠遊寬簷帽」",
     "rank": 3,
     "icon": "UI_Beyd_Avatar_Boy_Headwear_S0043",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274165": {
+    "name": "部件型錄·「悠遊寬簷帽」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Headwear_S0043",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
   "274164": {
@@ -1533,6 +1569,12 @@
     "name": "部件型錄·「蕙蘭布鞋」",
     "rank": 3,
     "icon": "UI_Beyd_Avatar_Girl_Shoe_S0078",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "271746": {
+    "name": "部件型錄·「素心蘭布鞋」",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Shoe_S0079",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
   "271745": {
@@ -2127,6 +2169,12 @@
     "name": "套裝型錄·「墨染新籜」",
     "rank": 4,
     "icon": "UI_Beyd_Avatar_Optional_Suit_S0144",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "275348": {
+    "name": "套裝型錄·「冰檸鹽飲」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Optional_Suit_S0016",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   }
 }

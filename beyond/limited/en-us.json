@@ -323,30 +323,6 @@
     "icon": "UI_Beyd_Avatar_Girl_Suit_S0115",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   },
-  "265145": {
-    "name": "Manekina Cosmetic - \"Scaleblade Chronicles\"",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Girl_Suit_S0056",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
-  "265146": {
-    "name": "Manekin Cosmetic - \"Scaleblade Chronicles\"",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Boy_Suit_S0056",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
-  "265044": {
-    "name": "Manekina Cosmetic - \"Candlelit Revelry\"",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Girl_Suit_S0059",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
-  "265045": {
-    "name": "Manekin Cosmetic - \"Candlelit Revelry\"",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Boy_Suit_S0059",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
   "265020": {
     "name": "Manekina Cosmetic - \"Sonic Ruins\"",
     "rank": 4,
@@ -381,18 +357,6 @@
     "name": "Manekin Cosmetic - \"Mystic Forest\"",
     "rank": 4,
     "icon": "UI_Beyd_Avatar_Boy_Suit_S0051",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
-  "265119": {
-    "name": "Manekina Cosmetic - \"Frosty Plume\"",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Girl_Suit_S0080",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
-  "265120": {
-    "name": "Manekin Cosmetic - \"Frosty Plume\"",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Boy_Suit_S0080",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   },
   "265171": {
@@ -431,18 +395,6 @@
     "icon": "UI_Beyd_Avatar_Boy_Suit_S0092",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   },
-  "265201": {
-    "name": "Manekina Cosmetic - \"Morning's Dawn and Dew\"",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Girl_Suit_S0094",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
-  "265202": {
-    "name": "Manekin Cosmetic - \"Morning's Dawn and Dew\"",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Boy_Suit_S0094",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
   "265194": {
     "name": "Manekina Cosmetic - \"Cerulean Tidestrike\"",
     "rank": 4,
@@ -477,18 +429,6 @@
     "name": "Manekin Cosmetic - \"Sunwarmed Malt\"",
     "rank": 4,
     "icon": "UI_Beyd_Avatar_Boy_Suit_S0050",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
-  "265239": {
-    "name": "Manekina Cosmetic - \"Cloud Edge's Glory\"",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Girl_Suit_S0100",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
-  "265240": {
-    "name": "Manekin Cosmetic - \"Cloud Edge's Glory\"",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Boy_Suit_S0100",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   },
   "265135": {
@@ -527,30 +467,6 @@
     "icon": "UI_Beyd_Avatar_Boy_Suit_S0104",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   },
-  "265394": {
-    "name": "Manekina Cosmetic - \"Butterfly Resplendence\"",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Girl_Suit_S0121",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
-  "265395": {
-    "name": "Manekin Cosmetic - \"Butterfly Resplendence\"",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Boy_Suit_S0121",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
-  "265396": {
-    "name": "Manekina Cosmetic - \"Butterfly Resplendence\"",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Girl_Suit_S0122",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
-  "265397": {
-    "name": "Manekin Cosmetic - \"Butterfly Resplendence\"",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Boy_Suit_S0122",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
   "265329": {
     "name": "Manekin Cosmetic - \"Melody of Petals\"",
     "rank": 4,
@@ -585,6 +501,138 @@
     "name": "Manekina Cosmetic - \"Letter's Afterglow\"",
     "rank": 4,
     "icon": "UI_Beyd_Avatar_Girl_Suit_S0131",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265350": {
+    "name": "Manekina Cosmetic - \"Sharp-Fanged Overlord\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0142",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265351": {
+    "name": "Manekin Cosmetic - \"Sharp-Fanged Overlord\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0142",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265356": {
+    "name": "Manekina Cosmetic - \"Savannah Dappled Flash\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0140",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265357": {
+    "name": "Manekin Cosmetic - \"Savannah Dappled Flash\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0140",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265320": {
+    "name": "Manekina Cosmetic - \"Propitious Breeze\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0129",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265321": {
+    "name": "Manekin Cosmetic - \"Propitious Breeze\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0129",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265145": {
+    "name": "Manekina Cosmetic - \"Scaleblade Chronicles\"",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0056",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265146": {
+    "name": "Manekin Cosmetic - \"Scaleblade Chronicles\"",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0056",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265044": {
+    "name": "Manekina Cosmetic - \"Candlelit Revelry\"",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0059",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265045": {
+    "name": "Manekin Cosmetic - \"Candlelit Revelry\"",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0059",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265119": {
+    "name": "Manekina Cosmetic - \"Frosty Plume\"",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0080",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265120": {
+    "name": "Manekin Cosmetic - \"Frosty Plume\"",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0080",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265201": {
+    "name": "Manekina Cosmetic - \"Morning's Dawn and Dew\"",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0094",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265202": {
+    "name": "Manekin Cosmetic - \"Morning's Dawn and Dew\"",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0094",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265239": {
+    "name": "Manekina Cosmetic - \"Cloud Edge's Glory\"",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0100",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265240": {
+    "name": "Manekin Cosmetic - \"Cloud Edge's Glory\"",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0100",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265394": {
+    "name": "Manekina Cosmetic - \"Butterfly Resplendence\"",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0121",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265395": {
+    "name": "Manekin Cosmetic - \"Butterfly Resplendence\"",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0121",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265396": {
+    "name": "Manekina Cosmetic - \"Butterfly Resplendence\"",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0122",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265397": {
+    "name": "Manekin Cosmetic - \"Butterfly Resplendence\"",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0122",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265358": {
+    "name": "Manekina Cosmetic - \"Chromatic Fatebound Sea\"",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0017",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265359": {
+    "name": "Manekin Cosmetic - \"Chromatic Fatebound Sea\"",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0017",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   }
 }

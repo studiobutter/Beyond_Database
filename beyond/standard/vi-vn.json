@@ -1169,16 +1169,34 @@
     "icon": "UI_Beyd_Avatar_Girl_Headwear_S0039",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
-  "274173": {
-    "name": "Danh Mục Thành Phần - Găng Tay Sải Cánh Tự Do",
+  "274185": {
+    "name": "Danh Mục Thành Phần - Bông Tai Nhà Nghiên Cứu Nấm",
     "rank": 3,
-    "icon": "UI_Beyd_Avatar_Girl_ArmAcc_S0045",
+    "icon": "UI_Beyd_Avatar_Girl_Earwear_S0052",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
-  "274172": {
-    "name": "Danh Mục Thành Phần - Kính Sải Cánh Tự Do",
+  "274184": {
+    "name": "Danh Mục Thành Phần - Găng Tay Vững Tin Bay Lượn",
     "rank": 3,
-    "icon": "UI_Beyd_Avatar_Girl_Headwear_S0045",
+    "icon": "UI_Beyd_Avatar_Boy_ArmAcc_S0045",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274183": {
+    "name": "Danh Mục Thành Phần - Kính Vững Tin Bay Lượn",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Headwear_S0045",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274177": {
+    "name": "Danh Mục Thành Phần - Găng Tay Vững Tin Bay Lượn",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_ArmAcc_S0044",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274176": {
+    "name": "Danh Mục Thành Phần - Kính Vững Tin Bay Lượn",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Headwear_S0044",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
   "274175": {
@@ -1191,6 +1209,18 @@
     "name": "Danh Mục Thành Phần - Kính Vững Tin Bay Lượn",
     "rank": 3,
     "icon": "UI_Beyd_Avatar_Girl_Headwear_S0044",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274173": {
+    "name": "Danh Mục Thành Phần - Găng Tay Sải Cánh Tự Do",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_ArmAcc_S0045",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274172": {
+    "name": "Danh Mục Thành Phần - Kính Sải Cánh Tự Do",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Girl_Headwear_S0045",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
   "274166": {
@@ -2139,6 +2169,12 @@
     "name": "Danh Mục Bộ: Măng Non Nhuốm Mực",
     "rank": 4,
     "icon": "UI_Beyd_Avatar_Optional_Suit_S0144",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "275348": {
+    "name": "Danh Mục Bộ: Nước Chanh Muối Đá",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Optional_Suit_S0016",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   }
 }

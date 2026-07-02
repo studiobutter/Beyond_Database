@@ -11,7 +11,7 @@
   - [ ] Portuguese
   - [ ] Spanish
 
-*Version: 6.6.0*
+*Version: 6.7.0*
 
 ## Limited
 
@@ -24,6 +24,6 @@
   - [ ] Portuguese
   - [ ] Spanish
 
-*Version: 6.6.0*
+*Version: 6.7.0*
 
 Looking for maintainer for this database, please contact me through email if you want to help maintain the database. Email: [butter@studiobutter.io.vn](mailto:butter@studiobutter.io.vn)

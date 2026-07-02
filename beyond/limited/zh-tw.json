@@ -323,30 +323,6 @@
     "icon": "UI_Beyd_Avatar_Girl_Suit_S0115",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   },
-  "265145": {
-    "name": "女性裝扮·「鱗鋒戰記」",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Girl_Suit_S0056",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
-    "265146": {
-    "name": "男性裝扮·「鱗鋒戰記」",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Boy_Suit_S0056",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
-  "265044": {
-    "name": "女性裝扮·「燭影狂歡夜」",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Girl_Suit_S0059",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
-  "265045": {
-    "name": "男性裝扮·「燭影狂歡夜」",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Boy_Suit_S0059",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
   "265020": {
     "name": "女性裝扮·「幻音廢墟s」",
     "rank": 4,
@@ -383,18 +359,7 @@
     "icon": "UI_Beyd_Avatar_Boy_Suit_S0051",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   },
-  "265119": {
-    "name": "女性裝扮·「霜庭雪翎」",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Girl_Suit_S0080",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
-  "265120": {
-    "name": "男性裝扮·「霜庭雪翎」",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Boy_Suit_S0080",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
+  
   "265171": {
     "name": "女性裝扮·「暖冬歡歌」",
     "rank": 4,
@@ -429,18 +394,6 @@
     "name": "男性裝扮·「療癒心意」",
     "rank": 4,
     "icon": "UI_Beyd_Avatar_Boy_Suit_S0092",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
-  "265201": {
-    "name": "女性裝扮·「晨曦朝露」",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Girl_Suit_S0094",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
-  "265202": {
-    "name": "男性裝扮·「晨曦朝露」",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Boy_Suit_S0094",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   },
   "265194": {
@@ -479,18 +432,6 @@
     "icon": "UI_Beyd_Avatar_Boy_Suit_S0050",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   },
-  "265239": {
-    "name": "女性裝扮·「雲涯榮輝」",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Girl_Suit_S0100",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
-  "265240": {
-    "name": "男性裝扮·「雲涯榮輝」",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Boy_Suit_S0100",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
   "265135": {
     "name": "女性裝扮·「神謨遠算」",
     "rank": 4,
@@ -525,24 +466,6 @@
     "name": "男性裝扮·「滴答呱呱」",
     "rank": 4,
     "icon": "UI_Beyd_Avatar_Boy_Suit_S0104",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
-  "265394": {
-    "name": "女性裝扮·「絢縵蝶跡」",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Girl_Suit_S0121",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
-  "265395": {
-    "name": "男性裝扮·「絢縵蝶跡」",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Boy_Suit_S0121",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
-  "265396": {
-    "name": "女性裝扮·「絢縵蝶跡」",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Girl_Suit_S0122",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   },
   "265397": {
@@ -585,6 +508,132 @@
     "name": "女性裝扮·「簡信餘溫」",
     "rank": 4,
     "icon": "UI_Beyd_Avatar_Girl_Suit_S0131",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+    "265350": {
+    "name": "女性裝扮·「利齒霸王」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0142",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265351": {
+    "name": "男性裝扮·「利齒霸王」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0142",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265356": {
+    "name": "女性裝扮·「草原斑斑」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0140",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265357": {
+    "name": "男性裝扮·「草原斑斑」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0140",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265320": {
+    "name": "女性裝扮·「好運煦風」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0129",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265321": {
+    "name": "男性裝扮·「好運煦風」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0129",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265145": {
+    "name": "女性裝扮·「鱗鋒戰記」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0056",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265146": {
+    "name": "男性裝扮·「鱗鋒戰記」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0056",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265044": {
+    "name": "女性裝扮·「燭影狂歡夜」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0059",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265045": {
+    "name": "男性裝扮·「燭影狂歡夜」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0059",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265119": {
+    "name": "女性裝扮·「霜庭雪翎」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0080",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265120": {
+    "name": "男性裝扮·「霜庭雪翎」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0080",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265201": {
+    "name": "女性裝扮·「晨曦朝露」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0094",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265202": {
+    "name": "男性裝扮·「晨曦朝露」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0094",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265239": {
+    "name": "女性裝扮·「雲涯榮輝」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0100",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265240": {
+    "name": "男性裝扮·「雲涯榮輝」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0100",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265394": {
+    "name": "女性裝扮·「絢縵蝶跡」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0121",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265395": {
+    "name": "男性裝扮·「絢縵蝶跡」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0121",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265396": {
+    "name": "女性裝扮·「絢縵蝶跡」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0122",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+    "265358": {
+    "name": "女性裝扮·「流彩緣海」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0017",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265359": {
+    "name": "男性裝扮·「流彩緣海」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0017",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   }
 }

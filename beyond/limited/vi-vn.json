@@ -323,30 +323,6 @@
     "icon": "UI_Beyd_Avatar_Girl_Suit_S0115",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   },
-  "265145": {
-    "name": "Ngoại Hình Nữ - Chiến Ký Vảy Lửa",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Girl_Suit_S0056",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
-  "265146": {
-    "name": "Ngoại Hình Nam - Chiến Ký Vảy Lửa",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Boy_Suit_S0056",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
-  "265044": {
-    "name": "Ngoại Hình Nữ - Đêm Nến Hân Hoan",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Girl_Suit_S0059",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
-  "265045": {
-    "name": "Ngoại Hình Nam - Đêm Nến Hân Hoan",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Boy_Suit_S0059",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
   "265020": {
     "name": "Ngoại Hình Nữ - Hư Âm Phế Tích",
     "rank": 4,
@@ -381,18 +357,6 @@
     "name": "Ngoại Hình Nam - Rừng Sâu Thần Bí",
     "rank": 4,
     "icon": "UI_Beyd_Avatar_Boy_Suit_S0051",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
-  "265119": {
-    "name": "Ngoại Hình Nữ - Lông Vũ Sảnh Tuyết",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Girl_Suit_S0080",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
-  "265120": {
-    "name": "Ngoại Hình Nam - Lông Vũ Sảnh Tuyết",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Boy_Suit_S0080",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   },
   "265171": {
@@ -431,18 +395,6 @@
     "icon": "UI_Beyd_Avatar_Boy_Suit_S0092",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   },
-  "265201": {
-    "name": "Ngoại Hình Nữ - Sương Mai Bình Minh",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Girl_Suit_S0094",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
-  "265202": {
-    "name": "Ngoại Hình Nam - Sương Mai Bình Minh",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Boy_Suit_S0094",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
   "265194": {
     "name": "Ngoại Hình Nữ - Lưỡi Đao Sóng Biển",
     "rank": 4,
@@ -477,18 +429,6 @@
     "name": "Ngoại Hình Nam - Hương Thơm Lúa Mạch",
     "rank": 4,
     "icon": "UI_Beyd_Avatar_Boy_Suit_S0050",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
-  "265239": {
-    "name": "Ngoại Hình Nữ - Mây Mù Rực Rỡ",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Girl_Suit_S0100",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
-  "265240": {
-    "name": "Ngoại Hình Nam - Mây Mù Rực Rỡ",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Boy_Suit_S0100",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   },
   "265135": {
@@ -527,64 +467,172 @@
     "icon": "UI_Beyd_Avatar_Boy_Suit_S0104",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   },
-  "265394": {
-    "name": "Ngoại Hình Nữ - \"Cánh Bướm Huyền Ảo\"",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Girl_Suit_S0121",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
-  "265395": {
-    "name": "Ngoại Hình Nam - \"Cánh Bướm Huyền Ảo\"",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Boy_Suit_S0121",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
-  "265396": {
-    "name": "Ngoại Hình Nữ - \"Cánh Bướm Huyền Ảo\"",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Girl_Suit_S0122",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
-  "265397": {
-    "name": "Ngoại Hình Nam - \"Cánh Bướm Huyền Ảo\"",
-    "rank": 5,
-    "icon": "UI_Beyd_Avatar_Boy_Suit_S0122",
-    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
-  },
   "265329": {
-    "name": "Ngoại Hình Nam - \"Nghe Hoa Thì Thầm\"",
+    "name": "Ngoại Hình Nam - Nghe Hoa Thì Thầm",
     "rank": 4,
     "icon": "UI_Beyd_Avatar_Boy_Suit_S0133",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   },
   "265328": {
-    "name": "Ngoại Hình Nữ - \"Nghe Hoa Thì Thầm\"",
+    "name": "Ngoại Hình Nữ - Nghe Hoa Thì Thầm",
     "rank": 4,
     "icon": "UI_Beyd_Avatar_Girl_Suit_S0133",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   },
   "265323": {
-    "name": "Ngoại Hình Nam - \"Ảo Ảnh Lặng Lẽ\"",
+    "name": "Ngoại Hình Nam - Ảo Ảnh Lặng Lẽ",
     "rank": 4,
     "icon": "UI_Beyd_Avatar_Boy_Suit_S0130",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   },
   "265322": {
-    "name": "Ngoại Hình Nữ - \"Ảo Ảnh Lặng Lẽ\"",
+    "name": "Ngoại Hình Nữ - Ảo Ảnh Lặng Lẽ",
     "rank": 4,
     "icon": "UI_Beyd_Avatar_Girl_Suit_S0130",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   },
   "265327": {
-    "name": "Ngoại Hình Nam - \"Lá Thư Ấm Áp\"",
+    "name": "Ngoại Hình Nam - Lá Thư Ấm Áp",
     "rank": 4,
     "icon": "UI_Beyd_Avatar_Boy_Suit_S0131",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   },
   "265326": {
-    "name": "Ngoại Hình Nữ - \"Lá Thư Ấm Áp\"",
+    "name": "Ngoại Hình Nữ - Lá Thư Ấm Áp",
     "rank": 4,
     "icon": "UI_Beyd_Avatar_Girl_Suit_S0131",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265350": {
+    "name": "Ngoại Hình Nữ - Bá Vương Nanh Nhọn",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0142",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265351": {
+    "name": "Ngoại Hình Nam - Bá Vương Nanh Nhọn",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0142",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265356": {
+    "name": "Ngoại Hình Nữ - Đồng Cỏ Lốm Đốm",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0140",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265357": {
+    "name": "Ngoại Hình Nam - Đồng Cỏ Lốm Đốm",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0140",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265320": {
+    "name": "Ngoại Hình Nữ - Làn Gió May Mắn",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0129",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265321": {
+    "name": "Ngoại Hình Nam - Làn Gió May Mắn",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0129",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265145": {
+    "name": "Ngoại Hình Nữ - Chiến Ký Vảy Lửa",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0056",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265146": {
+    "name": "Ngoại Hình Nam - Chiến Ký Vảy Lửa",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0056",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265044": {
+    "name": "Ngoại Hình Nữ - Đêm Nến Hân Hoan",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0059",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265045": {
+    "name": "Ngoại Hình Nam - Đêm Nến Hân Hoan",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0059",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265119": {
+    "name": "Ngoại Hình Nữ - Lông Vũ Sảnh Tuyết",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0080",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265120": {
+    "name": "Ngoại Hình Nam - Lông Vũ Sảnh Tuyết",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0080",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265201": {
+    "name": "Ngoại Hình Nữ - Sương Mai Bình Minh",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0094",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265202": {
+    "name": "Ngoại Hình Nam - Sương Mai Bình Minh",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0094",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265239": {
+    "name": "Ngoại Hình Nữ - Mây Mù Rực Rỡ",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0100",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265240": {
+    "name": "Ngoại Hình Nam - Mây Mù Rực Rỡ",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0100",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265394": {
+    "name": "Ngoại Hình Nữ - Cánh Bướm Huyền Ảo",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0121",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265395": {
+    "name": "Ngoại Hình Nam - Cánh Bướm Huyền Ảo",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0121",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265396": {
+    "name": "Ngoại Hình Nữ - Cánh Bướm Huyền Ảo",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0122",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265397": {
+    "name": "Ngoại Hình Nam - Cánh Bướm Huyền Ảo",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0122",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265358": {
+    "name": "Ngoại Hình Nữ - Sắc Màu Duyên Hải",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0017",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265359": {
+    "name": "Ngoại Hình Nam - Sắc Màu Duyên Hải",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0017",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   }
 }

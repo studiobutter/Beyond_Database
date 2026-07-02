@@ -1115,6 +1115,18 @@
     "icon": "",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
   },
+  "274184": {
+    "name": "Catálogo de componentes - Guantes del Vuelo Intrépido",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_ArmAcc_S0045",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "274183": {
+    "name": "Catálogo de componentes - Lentes del Vuelo Intrépido",
+    "rank": 3,
+    "icon": "UI_Beyd_Avatar_Boy_Headwear_S0045",
+    "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
   "274173": {
     "name": "Catálogo de componentes - Guantes del Vuelo Intrépido",
     "rank": 3,
