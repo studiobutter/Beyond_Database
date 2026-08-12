@@ -2176,5 +2176,11 @@
     "rank": 4,
     "icon": "UI_Beyd_Avatar_Optional_Suit_S0016",
     "type": "BEYOND_MATERIAL_COSTUME_DRAWING"
+  },
+  "275392": {
+    "name": "세트 도면·「민들레 바람」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Optional_Suit_S0157",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   }
 }

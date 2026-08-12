@@ -539,6 +539,42 @@
     "icon": "UI_Beyd_Avatar_Boy_Suit_S0129",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   },
+  "265481": {
+    "name": "여성 코스튬·「푸른 산마루」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0189",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265482": {
+    "name": "남성 코스튬·「푸른 산마루」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0189",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265455": {
+    "name": "여성 코스튬·「명탐정」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0170",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265456": {
+    "name": "남성 코스튬·「명탐정」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0170",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265457": {
+    "name": "여성 코스튬·「밤빛 괴도」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0167",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265458": {
+    "name": "남성 코스튬·「밤빛 괴도」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0167",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
   "265145": {
     "name": "여성 코스튬·「용의 불꽃」",
     "rank": 5,
@@ -633,6 +669,18 @@
     "name": "남성 코스튬·「여름빛 바다」",
     "rank": 5,
     "icon": "UI_Beyd_Avatar_Boy_Suit_S0017",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265064": {
+    "name": "여성 코스튬·「환상의 마술사」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0165",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265065": {
+    "name": "남성 코스튬·「환상의 마술사」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0165",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   }
 }

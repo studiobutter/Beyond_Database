@@ -539,6 +539,42 @@
     "icon": "UI_Beyd_Avatar_Boy_Suit_S0129",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   },
+  "265481": {
+    "name": "Ngoại Hình Nử - Bóng Núi Xanh Thẳm",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0189",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265482": {
+    "name": "Ngoại Hình Nam - Bóng Núi Xanh Thẳm",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0189",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265455": {
+    "name": "Ngoại Hình Nử - Chứng Nhận Trình Diễn",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0170",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265456": {
+    "name": "Ngoại Hình Nam - Chứng Nhận Trình Diễn",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0170",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265457": {
+    "name": "Ngoại Hình Nử - Đạo Chích Hoàng Hôn",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0167",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265458": {
+    "name": "Ngoại Hình Nam - Đạo Chích Hoàng Hôn",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0167",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
   "265145": {
     "name": "Ngoại Hình Nữ - Chiến Ký Vảy Lửa",
     "rank": 5,
@@ -633,6 +669,18 @@
     "name": "Ngoại Hình Nam - Sắc Màu Duyên Hải",
     "rank": 5,
     "icon": "UI_Beyd_Avatar_Boy_Suit_S0017",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265064": {
+    "name": "Ngoại Hình Nử - Biến Ảo Diệu Kỳ",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0165",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265065": {
+    "name": "Ngoại Hình Nam - Biến Ảo Diệu Kỳ",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0165",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   }
 }

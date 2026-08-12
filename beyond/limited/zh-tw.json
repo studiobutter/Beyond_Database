@@ -546,6 +546,42 @@
     "icon": "UI_Beyd_Avatar_Boy_Suit_S0129",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   },
+    "265481": {
+    "name": "女性裝扮·「深藍山影」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0189",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265482": {
+    "name": "男性裝扮·「深藍山影」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0189",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265455": {
+    "name": "女性裝扮·「照證裁論」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0170",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265456": {
+    "name": "男性裝扮·「照證裁論」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0170",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265457": {
+    "name": "女性裝扮·「幽暮俠盜」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0167",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265458": {
+    "name": "男性裝扮·「幽暮俠盜」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0167",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
   "265145": {
     "name": "女性裝扮·「鱗鋒戰記」",
     "rank": 5,
@@ -634,6 +670,18 @@
     "name": "男性裝扮·「流彩緣海」",
     "rank": 5,
     "icon": "UI_Beyd_Avatar_Boy_Suit_S0017",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265064": {
+    "name": "女性裝扮·「詼奇幻演」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0165",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265065": {
+    "name": "男性裝扮·「詼奇幻演」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0165",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   }
 }

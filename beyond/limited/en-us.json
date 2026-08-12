@@ -539,6 +539,42 @@
     "icon": "UI_Beyd_Avatar_Boy_Suit_S0129",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   },
+  "265481": {
+    "name": "Manekina Cosmetic - \"Azure Mountainshade\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0189",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265482": {
+    "name": "Manekin Cosmetic - \"Azure Mountainshade\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0189",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265455": {
+    "name": "Manekina Cosmetic - \"Sleuth's Verdict\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0170",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265456": {
+    "name": "Manekin Cosmetic - \"Sleuth's Verdict\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0170",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265457": {
+    "name": "Manekina Cosmetic - \"Twilight Phantom Thief\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0167",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265458": {
+    "name": "Manekin Cosmetic - \"Twilight Phantom Thief\"",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0167",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
   "265145": {
     "name": "Manekina Cosmetic - \"Scaleblade Chronicles\"",
     "rank": 5,
@@ -633,6 +669,18 @@
     "name": "Manekin Cosmetic - \"Chromatic Fatebound Sea\"",
     "rank": 5,
     "icon": "UI_Beyd_Avatar_Boy_Suit_S0017",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265064": {
+    "name": "Manekina Cosmetic - \"Whimsical Spectacle\"",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0165",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265065": {
+    "name": "Manekin Cosmetic - \"Whimsical Spectacle\"",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0165",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   }
 }

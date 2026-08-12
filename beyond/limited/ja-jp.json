@@ -539,6 +539,42 @@
     "icon": "UI_Beyd_Avatar_Boy_Suit_S0129",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   },
+  "265481": {
+    "name": "レディース-「山岳のアズール」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0189",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265482": {
+    "name": "メンズ-「山岳のアズール」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0189",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265455": {
+    "name": "レディース-「証拠と推論」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0170",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265456": {
+    "name": "メンズ-「証拠と推論」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0170",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265457": {
+    "name": "レディース-「薄明かりの怪盗」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0167",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265458": {
+    "name": "メンズ-「薄明かりの怪盗」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0167",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
   "265145": {
     "name": "レディース-「龍鱗戦記」",
     "rank": 5,
@@ -633,6 +669,18 @@
     "name": "メンズ-「彩りの縁海」",
     "rank": 5,
     "icon": "UI_Beyd_Avatar_Boy_Suit_S0017",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265064": {
+    "name": "レディース-「幻燈の奇術師」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0165",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265065": {
+    "name": "メンズ-「幻燈の奇術師」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0165",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   }
 }
