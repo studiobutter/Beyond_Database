@@ -575,6 +575,42 @@
     "icon": "UI_Beyd_Avatar_Boy_Suit_S0167",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   },
+  "265318": {
+    "name": "レディース-「牧歌の草原」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0128",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265319": {
+    "name": "メンズ-「牧歌の草原」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0128",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265354": {
+    "name": "レディース-「風切羽の裁断」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0141",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265355": {
+    "name": "メンズ-「風切羽の裁断」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0141",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265527": {
+    "name": "レディース-「ベイクドスイーツ・パラダイス」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0196",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265528": {
+    "name": "メンズ-「ベイクドスイーツ・パラダイス」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0196",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
   "265145": {
     "name": "レディース-「龍鱗戦記」",
     "rank": 5,
@@ -681,6 +717,18 @@
     "name": "メンズ-「幻燈の奇術師」",
     "rank": 5,
     "icon": "UI_Beyd_Avatar_Boy_Suit_S0165",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265368": {
+    "name": "レディース-「月影の桂花」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0003",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265369": {
+    "name": "メンズ-「月影の桂花」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0003",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   }
 }

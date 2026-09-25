@@ -503,7 +503,7 @@
     "icon": "UI_Beyd_Avatar_Girl_Suit_S0131",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   },
-    "265350": {
+  "265350": {
     "name": "남성 코스튬·「크앙룡」",
     "rank": 4,
     "icon": "UI_Beyd_Avatar_Girl_Suit_S0142",
@@ -573,6 +573,42 @@
     "name": "남성 코스튬·「밤빛 괴도」",
     "rank": 4,
     "icon": "UI_Beyd_Avatar_Boy_Suit_S0167",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265318": {
+    "name": "여성 코스튬·「푸른 목장」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0128",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265319": {
+    "name": "남성 코스튬·「푸른 목장」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0128",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265354": {
+    "name": "여성 코스튬·「심판의 깃털」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0141",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265355": {
+    "name": "남성 코스튬·「심판의 깃털」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0141",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265527": {
+    "name": "여성 코스튬·「달콤한 파티시에」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0196",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265528": {
+    "name": "남성 코스튬·「달콤한 파티시에」",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0196",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   },
   "265145": {
@@ -681,6 +717,18 @@
     "name": "남성 코스튬·「환상의 마술사」",
     "rank": 5,
     "icon": "UI_Beyd_Avatar_Boy_Suit_S0165",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265368": {
+    "name": "여성 코스튬·「천상의 달빛」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0003",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265369": {
+    "name": "남성 코스튬·「천상의 달빛」",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0003",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   }
 }

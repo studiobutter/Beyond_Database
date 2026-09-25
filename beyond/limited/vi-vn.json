@@ -575,6 +575,42 @@
     "icon": "UI_Beyd_Avatar_Boy_Suit_S0167",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   },
+  "265318": {
+    "name": "Ngoại Hình Nữ - Khúc Ca Đồng Xanh",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0128",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265319": {
+    "name": "Ngoại Hình Nam - Khúc Ca Đồng Xanh",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0128",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265354": {
+    "name": "Ngoại Hình Nữ - Lông Vũ Sắc Bén",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0141",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265355": {
+    "name": "Ngoại Hình Nam - Lông Vũ Sắc Bén",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0141",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265527": {
+    "name": "Ngoại Hình Nữ - Xứ Sở Bánh Ngọt",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0196",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265528": {
+    "name": "Ngoại Hình Nam - Xứ Sở Bánh Ngọt",
+    "rank": 4,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0196",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
   "265145": {
     "name": "Ngoại Hình Nữ - Chiến Ký Vảy Lửa",
     "rank": 5,
@@ -681,6 +717,18 @@
     "name": "Ngoại Hình Nam - Biến Ảo Diệu Kỳ",
     "rank": 5,
     "icon": "UI_Beyd_Avatar_Boy_Suit_S0165",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265368": {
+    "name": "Ngoại Hình Nữ - Hoa Quế Dưới Trăng",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Girl_Suit_S0003",
+    "type": "BEYOND_MATERIAL_COSTUME_SUIT"
+  },
+  "265369": {
+    "name": "Ngoại Hình Nam - Hoa Quế Dưới Trăng",
+    "rank": 5,
+    "icon": "UI_Beyd_Avatar_Boy_Suit_S0003",
     "type": "BEYOND_MATERIAL_COSTUME_SUIT"
   }
 }
